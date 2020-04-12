@@ -38,4 +38,3 @@ def test_gaussian_f():
         auc += gaussian_f(mu, var, x)
 
     assert auc - 1.0 < EPSILON
-

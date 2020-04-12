@@ -17,21 +17,21 @@ def gaussian_f(mu, sigma2, x):
     return coefficient * exponential
 
 
-def update(mean1, var1, mean2, var2):
+def update(mu1, sigma1, mu2, sigma2):
     """
     Takes in two means and two squared variance terms, and
     returns updated gaussian parameters.
     Args:
-        mean1:
-        var1:
-        mean2:
-        var2:
+        mu1: mean 1
+        sigma1: variance 1
+        mu2: mean 2
+        sigma2: variance 2
 
     Returns:
         (Tuple[float, float]): mean and variance
     """
-    new_mean = (var2 * mean1 + var1 * mean2) / (var2 + var1)
-    new_var = 1 / (1 / var2 + 1 / var1)
+    new_mean = (sigma2 * mu1 + sigma1 * mu2) / (sigma2 + sigma1)
+    new_var = 1 / (1 / sigma2 + 1 / sigma1)
 
     return new_mean, new_var
 
