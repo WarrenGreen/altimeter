@@ -1,5 +1,6 @@
 DEFAULT_SEA_LEVEL_PRESSURE = 101.325  # kilopascals
-DEFAULT_SEA_LEVEL_TEMP = 15  # celsius
+DEFAULT_SEA_LEVEL_TEMP = 15.0  # celsius
+KELVIN_CONSTANT = 273.15
 
 
 class Barometer:
@@ -19,8 +20,8 @@ class Barometer:
 
     def pressure(self, altitude):
         return self.sea_level_pressure * pow(
-            (1 - (0.0065 * altitude) / (self.sea_level_temp + 0.0065 * altitude + 273.15)), 5.25588
+            1 - ((0.0065 * altitude) / (self.sea_level_temp + (0.0065 * altitude) + KELVIN_CONSTANT)), 5.25588
         )
 
     def altitude(self, pressure):
-        return (1 - pow(pressure / self.sea_level_pressure, 1 / 5.25588)) * (self.sea_level_temp + 273.15) / 0.0065
+        return ((pow(self.sea_level_pressure / pressure, 1 / 5.25588) - 1) * (self.sea_level_temp + KELVIN_CONSTANT)) / 0.0065

@@ -1,6 +1,8 @@
 import json
 import pathlib
 
+import matplotlib.pyplot as plt
+
 from altimeter.barometer import Barometer
 from altimeter.kalman_filter import update, predict, gaussian_f
 
@@ -44,12 +46,18 @@ def test_gaussian_f():
     assert auc - 1.0 < EPSILON
 
 
-def test_kalman_filter_linear_data():
+def test_kalman_filter_linear_data(plot=False):
     barometer = Barometer()
     mu = 0
     sigma = 1000
     prev_mu = mu
     prev_sigma = sigma
+
+    # For plotting
+    true_altitudes = []
+    pred_altitudes = []
+    gps_altitudes = []
+    barometer_altitudes = []
     with open(str(DATA / "linear_flight.jsonl"), "r") as f:
         for line in f:
             sample = json.loads(line)
@@ -68,14 +76,35 @@ def test_kalman_filter_linear_data():
             mu = pred_mu
             sigma = pred_sigma
 
+            if plot:
+                true_altitudes.append(sample['altitude'])
+                pred_altitudes.append(mu)
+                if "gps_altitude" in sample:
+                    gps_altitudes.append(gps_altitude)
+                else:
+                    gps_altitudes.append(None)
+                barometer_altitudes.append(barometer_altitude)
+
         final_altitude = sample["altitude"]
         # print the final, resultant mu, sig
         print("\n")
         print(f"Final result: [{mu}, {sigma}], true altitude {final_altitude}")
+
+        pred_altitudes = pred_altitudes[1:]
+        plt.figure()
+        plt.plot(gps_altitudes, 'k+', label='gps measurements')
+        plt.plot(barometer_altitudes, 'r+', label='barometer measurements')
+        plt.plot(pred_altitudes, 'b-', label='predicted altitudes')
+        plt.plot(true_altitudes, 'g-', label='true altitudes')
+        plt.title('Estimated Altitude', fontweight='bold')
+        plt.xlabel('Time Step')
+        plt.ylabel('Altitude (m)')
+        plt.legend()
+        plt.show()
 
         # assert that final prediction is within 5% of true altitude
         assert mu - final_altitude < final_altitude * 0.05
 
 
 if __name__ == "__main__":
-    test_kalman_filter_linear_data()
+    test_kalman_filter_linear_data(plot=True)
