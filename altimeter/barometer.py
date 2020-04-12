@@ -18,7 +18,9 @@ class Barometer:
         self.variance = variance
 
     def pressure(self, altitude):
-        return self.sea_level_pressure * pow((1 - 2.25577e-5 * altitude), 5.25588)
+        return self.sea_level_pressure * pow(
+            (1 - (0.0065 * altitude) / (self.sea_level_temp + 0.0065 * altitude + 273.15)), 5.25588
+        )
 
     def altitude(self, pressure):
-        return (1 - pow(pressure / self.sea_level_pressure, 1 / 5.25588)) / 2.25577e-5
+        return (1 - pow(pressure / self.sea_level_pressure, 1 / 5.25588)) * (self.sea_level_temp + 273.15) / 0.0065
