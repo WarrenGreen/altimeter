@@ -1,6 +1,7 @@
 import json
 import pathlib
 
+from altimeter.barometer import Barometer
 from altimeter.kalman_filter import update, predict, gaussian_f
 
 EPSILON = 0.0001
@@ -44,7 +45,7 @@ def test_gaussian_f():
 
 
 def test_kalman_filter_linear_data():
-    barometer_sigma = 0.5
+    barometer = Barometer()
     mu = 0
     sigma = 1000
     prev_mu = mu
@@ -55,8 +56,8 @@ def test_kalman_filter_linear_data():
             gps_altitude = sample["gps_altitude"]
             gps_sigma = sample["gps_variance"]
             mu, sigma = update(mu, sigma, gps_altitude, gps_sigma)
-            barometer_altitude = (1 - pow(sample["pressure"] / 101.325, 1/5.25588)) / 2.25577e-5
-            mu, sigma = update(mu, sigma, barometer_altitude, barometer_sigma)
+            barometer_altitude = barometer.altitude(sample["pressure"])
+            mu, sigma = update(mu, sigma, barometer_altitude, barometer.sigma)
 
             print(f"Update: [{mu}, {sigma}], true altitude {sample['altitude']}")
             delta = mu - prev_mu
@@ -66,14 +67,14 @@ def test_kalman_filter_linear_data():
             mu = pred_mu
             sigma = pred_sigma
 
-        final_altitude = sample['altitude']
+        final_altitude = sample["altitude"]
         # print the final, resultant mu, sig
-        print('\n')
+        print("\n")
         print(f"Final result: [{mu}, {sigma}], true altitude {final_altitude}")
 
         # assert that final prediction is within 5% of true altitude
         assert mu - final_altitude < final_altitude * 0.05
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     test_kalman_filter_linear_data()
