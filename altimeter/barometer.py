@@ -24,4 +24,6 @@ class Barometer:
         )
 
     def altitude(self, pressure):
-        return ((pow(self.sea_level_pressure / pressure, 1 / 5.25588) - 1) * (self.sea_level_temp + KELVIN_CONSTANT)) / 0.0065
+        return (
+            (pow(self.sea_level_pressure / pressure, 1 / 5.25588) - 1) * (self.sea_level_temp + KELVIN_CONSTANT)
+        ) / 0.0065

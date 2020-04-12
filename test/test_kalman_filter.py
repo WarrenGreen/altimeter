@@ -1,10 +1,14 @@
 import json
 import pathlib
+from copy import copy
 
 import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.linear_model import LinearRegression
 
 from altimeter.barometer import Barometer
 from altimeter.kalman_filter import update, predict, gaussian_f
+from altimeter.smoothing import smooth
 
 EPSILON = 0.0001
 DATA = pathlib.Path(__file__).absolute().parent / "data"
@@ -48,16 +52,18 @@ def test_gaussian_f():
 
 def test_kalman_filter_linear_data(plot=False):
     barometer = Barometer()
+    PREDICTION_BUFFER = 3
+    PREDICTION_SIGMA = 3
     mu = 0
     sigma = 1000
     prev_mu = mu
-    prev_sigma = sigma
 
     # For plotting
     true_altitudes = []
     pred_altitudes = []
     gps_altitudes = []
     barometer_altitudes = []
+    lr = LinearRegression()
     with open(str(DATA / "linear_flight.jsonl"), "r") as f:
         for line in f:
             sample = json.loads(line)
@@ -69,16 +75,24 @@ def test_kalman_filter_linear_data(plot=False):
             mu, sigma = update(mu, sigma, barometer_altitude, barometer.variance)
 
             print(f"Update: [{mu}, {sigma}], true altitude {sample['altitude']}")
-            delta = mu - prev_mu
-            pred_mu, pred_sigma = predict(mu, sigma, delta, prev_sigma)
+            xx = np.array(list(range(PREDICTION_BUFFER))).reshape(-1, 1)
+            if len(pred_altitudes) <= PREDICTION_BUFFER * 4:
+                delta = mu - prev_mu
+            else:
+                yy = np.array(copy(pred_altitudes[-PREDICTION_BUFFER:])).reshape(-1, 1)
+                lr.fit(xx, yy)
+                new_mu = lr.predict([[PREDICTION_BUFFER - 1]])
+                print(f"new: {new_mu}")
+                delta = new_mu - prev_mu
+            pred_mu, pred_sigma = predict(mu, sigma, delta, PREDICTION_SIGMA)
             prev_mu = mu
             prev_sigma = sigma
             mu = pred_mu
             sigma = pred_sigma
 
+            pred_altitudes.append(mu)
             if plot:
-                true_altitudes.append(sample['altitude'])
-                pred_altitudes.append(mu)
+                true_altitudes.append(sample["altitude"])
                 if "gps_altitude" in sample:
                     gps_altitudes.append(gps_altitude)
                 else:
@@ -91,14 +105,16 @@ def test_kalman_filter_linear_data(plot=False):
         print(f"Final result: [{mu}, {sigma}], true altitude {final_altitude}")
 
         pred_altitudes = pred_altitudes[1:]
+        smooth_pred_altitudes = smooth(np.array(pred_altitudes), window_len=3, window="flat")
         plt.figure()
-        plt.plot(gps_altitudes, 'k+', label='gps measurements')
-        plt.plot(barometer_altitudes, 'r+', label='barometer measurements')
-        plt.plot(pred_altitudes, 'b-', label='predicted altitudes')
-        plt.plot(true_altitudes, 'g-', label='true altitudes')
-        plt.title('Estimated Altitude', fontweight='bold')
-        plt.xlabel('Time Step')
-        plt.ylabel('Altitude (m)')
+        plt.plot(gps_altitudes, "k+", label="gps measurements")
+        plt.plot(barometer_altitudes, "r+", label="barometer measurements")
+        plt.plot(pred_altitudes, "b-", label="predicted altitudes")
+        plt.plot(smooth_pred_altitudes, "m-", label="smoothed predicted altitudes")
+        plt.plot(true_altitudes, "g-", label="true altitudes")
+        plt.title("Estimated Altitude", fontweight="bold")
+        plt.xlabel("Time Step")
+        plt.ylabel("Altitude (m)")
         plt.legend()
         plt.show()
 
