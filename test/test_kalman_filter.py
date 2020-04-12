@@ -53,11 +53,12 @@ def test_kalman_filter_linear_data():
     with open(str(DATA / "linear_flight.jsonl"), "r") as f:
         for line in f:
             sample = json.loads(line)
-            gps_altitude = sample["gps_altitude"]
-            gps_sigma = sample["gps_variance"]
-            mu, sigma = update(mu, sigma, gps_altitude, gps_sigma)
+            if "gps_altitude" in sample:
+                gps_altitude = sample["gps_altitude"]
+                gps_sigma = sample["gps_variance"]
+                mu, sigma = update(mu, sigma, gps_altitude, gps_sigma)
             barometer_altitude = barometer.altitude(sample["pressure"])
-            mu, sigma = update(mu, sigma, barometer_altitude, barometer.sigma)
+            mu, sigma = update(mu, sigma, barometer_altitude, barometer.variance)
 
             print(f"Update: [{mu}, {sigma}], true altitude {sample['altitude']}")
             delta = mu - prev_mu

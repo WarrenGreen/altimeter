@@ -4,10 +4,7 @@ DEFAULT_SEA_LEVEL_TEMP = 15  # celsius
 
 class Barometer:
     def __init__(
-        self,
-        sea_level_pressure=DEFAULT_SEA_LEVEL_PRESSURE,
-        sea_level_temp=DEFAULT_SEA_LEVEL_TEMP,
-        variance=0.5,
+        self, sea_level_pressure=DEFAULT_SEA_LEVEL_PRESSURE, sea_level_temp=DEFAULT_SEA_LEVEL_TEMP, variance=0.5
     ):
         """
 
