@@ -1,610 +1,610 @@
-{"altitude": 1524, "pressure": 88.14999999999999, "gps_altitude": 1523.3}
-{"altitude": 1525, "pressure": 88.15915892893996, "gps_altitude": 1522.8}
-{"altitude": 1526, "pressure": 87.94831893567888, "gps_altitude": 1527.3}
-{"altitude": 1527, "pressure": 88.3374800201348, "gps_altitude": 1530.2}
-{"altitude": 1528, "pressure": 88.04664218222571, "gps_altitude": 1525.8}
-{"altitude": 1529, "pressure": 88.23580542186961, "gps_altitude": 1525.8}
-{"altitude": 1530, "pressure": 88.28496973898466, "gps_altitude": 1534.0}
-{"altitude": 1531, "pressure": 88.64413513348876, "gps_altitude": 1535.5}
-{"altitude": 1532, "pressure": 88.21330160530002, "gps_altitude": 1534.6}
-{"altitude": 1533, "pressure": 88.61246915433652, "gps_altitude": 1529.1}
-{"altitude": 1534, "pressure": 87.84163778051624, "gps_altitude": 1536.8}
-{"altitude": 1535, "pressure": 88.60080748375727, "gps_altitude": 1531.0}
-{"altitude": 1536, "pressure": 88.20997826397772, "gps_altitude": 1533.0}
-{"altitude": 1537, "pressure": 88.09915012109555, "gps_altitude": 1534.2}
-{"altitude": 1538, "pressure": 88.63832305502889, "gps_altitude": 1541.2}
-{"altitude": 1539, "pressure": 88.59749706569589, "gps_altitude": 1542.1}
-{"altitude": 1540, "pressure": 88.33667215301449, "gps_altitude": 1543.3}
-{"altitude": 1541, "pressure": 88.48584831690286, "gps_altitude": 1545.6}
-{"altitude": 1542, "pressure": 87.84502555727909, "gps_altitude": 1543.4}
-{"altitude": 1543, "pressure": 87.79420387406121, "gps_altitude": 1541.5}
-{"altitude": 1544, "pressure": 88.38338326716735, "gps_altitude": 1543.6}
-{"altitude": 1545, "pressure": 88.46256373651566, "gps_altitude": 1545.1}
-{"altitude": 1546, "pressure": 88.52174528202416, "gps_altitude": 1547.3}
-{"altitude": 1547, "pressure": 88.35092790361101, "gps_altitude": 1544.4}
-{"altitude": 1548, "pressure": 87.61011160119435, "gps_altitude": 1544.8}
-{"altitude": 1549, "pressure": 87.7992963746922, "gps_altitude": 1548.7}
-{"altitude": 1550, "pressure": 88.08848222402275, "gps_altitude": 1547.2}
-{"altitude": 1551, "pressure": 87.7276691491042, "gps_altitude": 1550.6}
-{"altitude": 1552, "pressure": 87.95685714985451, "gps_altitude": 1547.2}
-{"altitude": 1553, "pressure": 87.98604622619193, "gps_altitude": 1555.6}
-{"altitude": 1554, "pressure": 87.89523637803462, "gps_altitude": 1551.6}
-{"altitude": 1555, "pressure": 87.50442760530063, "gps_altitude": 1553.6}
-{"altitude": 1556, "pressure": 87.60361990790817, "gps_altitude": 1555.0}
-{"altitude": 1557, "pressure": 88.32281328577535, "gps_altitude": 1560.3}
-{"altitude": 1558, "pressure": 87.68200773882043, "gps_altitude": 1558.4}
-{"altitude": 1559, "pressure": 87.48120326696144, "gps_altitude": 1555.6}
-{"altitude": 1560, "pressure": 87.5403998701166, "gps_altitude": 1560.9}
-{"altitude": 1561, "pressure": 87.53959754820416, "gps_altitude": 1557.8}
-{"altitude": 1562, "pressure": 87.89879630114214, "gps_altitude": 1558.2}
-{"altitude": 1563, "pressure": 87.95799612884879, "gps_altitude": 1560.1}
-{"altitude": 1564, "pressure": 88.02719703124235, "gps_altitude": 1562.7}
-{"altitude": 1565, "pressure": 87.53639900824093, "gps_altitude": 1560.2}
-{"altitude": 1566, "pressure": 88.04560205976273, "gps_altitude": 1563.4}
-{"altitude": 1567, "pressure": 87.824806185726, "gps_altitude": 1571.0}
-{"altitude": 1568, "pressure": 87.78401138604887, "gps_altitude": 1571.9}
-{"altitude": 1569, "pressure": 87.68321766064958, "gps_altitude": 1566.3}
-{"altitude": 1570, "pressure": 87.93242500944636, "gps_altitude": 1571.0}
-{"altitude": 1571, "pressure": 87.47163343235738, "gps_altitude": 1568.1}
-{"altitude": 1572, "pressure": 87.64084292930085, "gps_altitude": 1574.3}
-{"altitude": 1573, "pressure": 87.61005350019508, "gps_altitude": 1575.0}
-{"altitude": 1574, "pressure": 87.83926514495818, "gps_altitude": 1570.9}
-{"altitude": 1575, "pressure": 87.52847786350843, "gps_altitude": 1570.4}
-{"altitude": 1576, "pressure": 87.96769165576411, "gps_altitude": 1573.5}
-{"altitude": 1577, "pressure": 87.52690652164337, "gps_altitude": 1573.6}
-{"altitude": 1578, "pressure": 88.0261224610645, "gps_altitude": 1573.8}
-{"altitude": 1579, "pressure": 88.0853394739458, "gps_altitude": 1577.9}
-{"altitude": 1580, "pressure": 88.1545575602054, "gps_altitude": 1582.1}
-{"altitude": 1581, "pressure": 88.11377671976166, "gps_altitude": 1583.5}
-{"altitude": 1582, "pressure": 87.70299695253283, "gps_altitude": 1586.7}
-{"altitude": 1583, "pressure": 87.77221825843709, "gps_altitude": 1586.9}
-{"altitude": 1584, "pressure": 87.88144063739279, "gps_altitude": 1582.1}
-{"altitude": 1585, "pressure": 87.43066408931823, "gps_altitude": 1582.7}
-{"altitude": 1586, "pressure": 87.14988861413156, "gps_altitude": 1581.0}
-{"altitude": 1587, "pressure": 87.82911421175116, "gps_altitude": 1587.5}
-{"altitude": 1588, "pressure": 88.09834088209534, "gps_altitude": 1583.8}
-{"altitude": 1589, "pressure": 88.06756862508232, "gps_altitude": 1592.8}
-{"altitude": 1590, "pressure": 87.34679744063041, "gps_altitude": 1594.4}
-{"altitude": 1591, "pressure": 87.09602732865795, "gps_altitude": 1586.1}
-{"altitude": 1592, "pressure": 87.59525828908319, "gps_altitude": 1593.2}
-{"altitude": 1593, "pressure": 87.15449032182445, "gps_altitude": 1592.8}
-{"altitude": 1594, "pressure": 87.84372342680011, "gps_altitude": 1596.3}
-{"altitude": 1595, "pressure": 87.13295760392838, "gps_altitude": 1594.2}
-{"altitude": 1596, "pressure": 87.16219285312764, "gps_altitude": 1600.4}
-{"altitude": 1597, "pressure": 87.41142917431625, "gps_altitude": 1596.5}
-{"altitude": 1598, "pressure": 87.15066656741244, "gps_altitude": 1601.1}
-{"altitude": 1599, "pressure": 87.18990503233461, "gps_altitude": 1603.3}
-{"altitude": 1600, "pressure": 87.92914456900112, "gps_altitude": 1603.2}
-{"altitude": 1601, "pressure": 87.39838517733025, "gps_altitude": 1600.7}
-{"altitude": 1602, "pressure": 87.12762685724037, "gps_altitude": 1605.9}
-{"altitude": 1603, "pressure": 87.68686960864987, "gps_altitude": 1606.6}
-{"altitude": 1604, "pressure": 87.60611343147706, "gps_altitude": 1599.9}
-{"altitude": 1605, "pressure": 87.5453583256403, "gps_altitude": 1601.2}
-{"altitude": 1606, "pressure": 87.244604291058, "gps_altitude": 1608.0}
-{"altitude": 1607, "pressure": 87.01385132764844, "gps_altitude": 1611.3}
-{"altitude": 1608, "pressure": 87.45309943533006, "gps_altitude": 1607.6}
-{"altitude": 1609, "pressure": 86.95234861402126, "gps_altitude": 1613.1}
-{"altitude": 1610, "pressure": 87.21159886364035, "gps_altitude": 1611.2}
-{"altitude": 1611, "pressure": 86.93085018410574, "gps_altitude": 1606.8}
-{"altitude": 1612, "pressure": 87.34010257533589, "gps_altitude": 1613.6}
-{"altitude": 1613, "pressure": 87.16935603724907, "gps_altitude": 1615.5}
-{"altitude": 1614, "pressure": 87.70861056976375, "gps_altitude": 1618.0}
-{"altitude": 1615, "pressure": 87.25786617279839, "gps_altitude": 1616.1}
-{"altitude": 1616, "pressure": 87.55712284627126, "gps_altitude": 1612.8}
-{"altitude": 1617, "pressure": 87.60638059010085, "gps_altitude": 1618.5}
-{"altitude": 1618, "pressure": 86.90563940420562, "gps_altitude": 1613.9}
-{"altitude": 1619, "pressure": 87.07489928850387, "gps_altitude": 1620.3}
-{"altitude": 1620, "pressure": 87.2741602429141, "gps_altitude": 1618.9}
-{"altitude": 1621, "pressure": 87.54342226735474, "gps_altitude": 1618.1}
-{"altitude": 1622, "pressure": 86.88268536174427, "gps_altitude": 1626.7}
-{"altitude": 1623, "pressure": 87.241949526001, "gps_altitude": 1623.4}
-{"altitude": 1624, "pressure": 87.59121476004344, "gps_altitude": 1624.7}
-{"altitude": 1625, "pressure": 87.6304810637901, "gps_altitude": 1623.8}
-{"altitude": 1626, "pressure": 86.94974843715931, "gps_altitude": 1626.2}
-{"altitude": 1627, "pressure": 87.31901688006958, "gps_altitude": 1631.9}
-{"altitude": 1628, "pressure": 87.31828639243943, "gps_altitude": 1629.5}
-{"altitude": 1629, "pressure": 87.30755697418722, "gps_altitude": 1625.5}
-{"altitude": 1630, "pressure": 87.41682862523145, "gps_altitude": 1634.9}
-{"altitude": 1631, "pressure": 87.19610134549065, "gps_altitude": 1626.0}
-{"altitude": 1632, "pressure": 87.46537513488319, "gps_altitude": 1630.2}
-{"altitude": 1633, "pressure": 86.99464999332763, "gps_altitude": 1636.2}
-{"altitude": 1634, "pressure": 87.28392592074248, "gps_altitude": 1629.8}
-{"altitude": 1635, "pressure": 87.2132029170461, "gps_altitude": 1630.2}
-{"altitude": 1636, "pressure": 87.13248098215709, "gps_altitude": 1635.3}
-{"altitude": 1637, "pressure": 87.44176011599396, "gps_altitude": 1638.3}
-{"altitude": 1638, "pressure": 86.96104031847514, "gps_altitude": 1636.3}
-{"altitude": 1639, "pressure": 87.12032158951915, "gps_altitude": 1634.2}
-{"altitude": 1640, "pressure": 87.15960392904458, "gps_altitude": 1637.3}
-{"altitude": 1641, "pressure": 86.88888733696983, "gps_altitude": 1637.1}
-{"altitude": 1642, "pressure": 86.72817181321348, "gps_altitude": 1646.0}
-{"altitude": 1643, "pressure": 86.66745735769409, "gps_altitude": 1647.7}
-{"altitude": 1644, "pressure": 86.7667439703301, "gps_altitude": 1646.2}
-{"altitude": 1645, "pressure": 86.51603165104007, "gps_altitude": 1640.5}
-{"altitude": 1646, "pressure": 87.33532039974261, "gps_altitude": 1646.4}
-{"altitude": 1647, "pressure": 87.14461021635617, "gps_altitude": 1644.1}
-{"altitude": 1648, "pressure": 87.39390110079931, "gps_altitude": 1643.6}
-{"altitude": 1649, "pressure": 87.09319305299064, "gps_altitude": 1649.2}
-{"altitude": 1650, "pressure": 86.56248607284863, "gps_altitude": 1649.0}
-{"altitude": 1651, "pressure": 86.94178016029187, "gps_altitude": 1651.8}
-{"altitude": 1652, "pressure": 86.47107531523898, "gps_altitude": 1654.4}
-{"altitude": 1653, "pressure": 86.86037153760843, "gps_altitude": 1649.1}
-{"altitude": 1654, "pressure": 86.47966882731883, "gps_altitude": 1655.5}
-{"altitude": 1655, "pressure": 86.78896718428882, "gps_altitude": 1656.7}
-{"altitude": 1656, "pressure": 86.70826660843686, "gps_altitude": 1660.7}
-{"altitude": 1657, "pressure": 86.9675670996816, "gps_altitude": 1653.0}
-{"altitude": 1658, "pressure": 87.22686865794168, "gps_altitude": 1662.3}
-{"altitude": 1659, "pressure": 86.79617128313556, "gps_altitude": 1656.5}
-{"altitude": 1660, "pressure": 86.81547497518193, "gps_altitude": 1662.6}
-{"altitude": 1661, "pressure": 86.6847797339994, "gps_altitude": 1659.1}
-{"altitude": 1662, "pressure": 86.54408555950651, "gps_altitude": 1666.2}
-{"altitude": 1663, "pressure": 87.1833924516219, "gps_altitude": 1664.3}
-{"altitude": 1664, "pressure": 86.44270041026424, "gps_altitude": 1660.8}
-{"altitude": 1665, "pressure": 86.38200943535203, "gps_altitude": 1663.5}
-{"altitude": 1666, "pressure": 86.311319526804, "gps_altitude": 1668.1}
-{"altitude": 1667, "pressure": 86.40063068453874, "gps_altitude": 1665.0}
-{"altitude": 1668, "pressure": 86.27994290847485, "gps_altitude": 1671.7}
-{"altitude": 1669, "pressure": 86.34925619853098, "gps_altitude": 1673.6}
-{"altitude": 1670, "pressure": 87.19857055462582, "gps_altitude": 1671.4}
-{"altitude": 1671, "pressure": 86.92788597667794, "gps_altitude": 1666.4}
-{"altitude": 1672, "pressure": 86.89720246460602, "gps_altitude": 1668.8}
-{"altitude": 1673, "pressure": 87.11652001832877, "gps_altitude": 1676.3}
-{"altitude": 1674, "pressure": 86.99583863776473, "gps_altitude": 1673.0}
-{"altitude": 1675, "pressure": 86.36515832283263, "gps_altitude": 1675.9}
-{"altitude": 1676, "pressure": 86.91447907345118, "gps_altitude": 1673.7}
-{"altitude": 1677, "pressure": 86.50380088953892, "gps_altitude": 1672.8}
-{"altitude": 1678, "pressure": 86.80312377101461, "gps_altitude": 1676.6}
-{"altitude": 1679, "pressure": 87.022447717797, "gps_altitude": 1679.2}
-{"altitude": 1680, "pressure": 86.22177272980461, "gps_altitude": 1675.3}
-{"altitude": 1681, "pressure": 87.00109880695621, "gps_altitude": 1676.1}
-{"altitude": 1682, "pressure": 86.84042594917055, "gps_altitude": 1686.3}
-{"altitude": 1683, "pressure": 86.3197541563662, "gps_altitude": 1679.6}
-{"altitude": 1684, "pressure": 86.72908342846195, "gps_altitude": 1684.1}
-{"altitude": 1685, "pressure": 86.97841376537649, "gps_altitude": 1682.4}
-{"altitude": 1686, "pressure": 86.81774516702849, "gps_altitude": 1681.4}
-{"altitude": 1687, "pressure": 86.07707763333669, "gps_altitude": 1689.1}
-{"altitude": 1688, "pressure": 86.03641116421984, "gps_altitude": 1688.5}
-{"altitude": 1689, "pressure": 86.25574575959658, "gps_altitude": 1689.9}
-{"altitude": 1690, "pressure": 86.07508141938568, "gps_altitude": 1690.9}
-{"altitude": 1691, "pressure": 86.10441814350594, "gps_altitude": 1688.6}
-{"altitude": 1692, "pressure": 86.24375593187597, "gps_altitude": 1696.7}
-{"altitude": 1693, "pressure": 86.38309478441455, "gps_altitude": 1694.5}
-{"altitude": 1694, "pressure": 86.94243470104048, "gps_altitude": 1690.5}
-{"altitude": 1695, "pressure": 86.69177568167244, "gps_altitude": 1697.9}
-{"altitude": 1696, "pressure": 86.55111772622917, "gps_altitude": 1700.6}
-{"altitude": 1697, "pressure": 86.04046083462954, "gps_altitude": 1695.5}
-{"altitude": 1698, "pressure": 86.20980500679218, "gps_altitude": 1700.7}
-{"altitude": 1699, "pressure": 86.5591502426359, "gps_altitude": 1695.6}
-{"altitude": 1700, "pressure": 86.1584965420795, "gps_altitude": 1695.3}
-{"altitude": 1701, "pressure": 86.3778439050417, "gps_altitude": 1702.6}
-{"altitude": 1702, "pressure": 86.15719233144128, "gps_altitude": 1703.8}
-{"altitude": 1703, "pressure": 86.41654182119711, "gps_altitude": 1699.8}
-{"altitude": 1704, "pressure": 85.99589237422785, "gps_altitude": 1707.4}
-{"altitude": 1705, "pressure": 86.07524399045236, "gps_altitude": 1704.0}
-{"altitude": 1706, "pressure": 86.43459666978947, "gps_altitude": 1703.7}
-{"altitude": 1707, "pressure": 86.64395041215789, "gps_altitude": 1709.1}
-{"altitude": 1708, "pressure": 86.79330521747644, "gps_altitude": 1707.3}
-{"altitude": 1709, "pressure": 86.34266108566403, "gps_altitude": 1709.3}
-{"altitude": 1710, "pressure": 86.18201801663932, "gps_altitude": 1708.1}
-{"altitude": 1711, "pressure": 86.62137601032121, "gps_altitude": 1712.5}
-{"altitude": 1712, "pressure": 85.88073506662855, "gps_altitude": 1708.7}
-{"altitude": 1713, "pressure": 85.82009518548008, "gps_altitude": 1710.3}
-{"altitude": 1714, "pressure": 86.17945636679468, "gps_altitude": 1712.1}
-{"altitude": 1715, "pressure": 86.64881861049116, "gps_altitude": 1719.3}
-{"altitude": 1716, "pressure": 86.34818191648843, "gps_altitude": 1714.5}
-{"altitude": 1717, "pressure": 86.56754628470522, "gps_altitude": 1719.5}
-{"altitude": 1718, "pressure": 86.03691171506043, "gps_altitude": 1721.5}
-{"altitude": 1719, "pressure": 86.60627820747297, "gps_altitude": 1715.3}
-{"altitude": 1720, "pressure": 86.63564576186155, "gps_altitude": 1719.8}
-{"altitude": 1721, "pressure": 86.55501437814515, "gps_altitude": 1719.8}
-{"altitude": 1722, "pressure": 86.53438405624263, "gps_altitude": 1718.6}
-{"altitude": 1723, "pressure": 86.28375479607278, "gps_altitude": 1719.8}
-{"altitude": 1724, "pressure": 85.82312659755449, "gps_altitude": 1726.1}
-{"altitude": 1725, "pressure": 85.82249946060674, "gps_altitude": 1725.5}
-{"altitude": 1726, "pressure": 86.23187338514825, "gps_altitude": 1729.7}
-{"altitude": 1727, "pressure": 86.41124837109801, "gps_altitude": 1727.9}
-{"altitude": 1728, "pressure": 85.62062441837493, "gps_altitude": 1730.2}
-{"altitude": 1729, "pressure": 85.77000152689777, "gps_altitude": 1732.9}
-{"altitude": 1730, "pressure": 85.92937969658556, "gps_altitude": 1726.7}
-{"altitude": 1731, "pressure": 86.27875892735717, "gps_altitude": 1726.1}
-{"altitude": 1732, "pressure": 86.44813921913146, "gps_altitude": 1730.9}
-{"altitude": 1733, "pressure": 86.47752057182737, "gps_altitude": 1730.8}
-{"altitude": 1734, "pressure": 86.27690298536388, "gps_altitude": 1732.6}
-{"altitude": 1735, "pressure": 85.66628645965976, "gps_altitude": 1737.2}
-{"altitude": 1736, "pressure": 85.54567099463402, "gps_altitude": 1738.7}
-{"altitude": 1737, "pressure": 86.33505659020567, "gps_altitude": 1738.3}
-{"altitude": 1738, "pressure": 85.71444324629348, "gps_altitude": 1737.9}
-{"altitude": 1739, "pressure": 86.23383096281646, "gps_altitude": 1738.5}
-{"altitude": 1740, "pressure": 86.32321973969363, "gps_altitude": 1742.0}
-{"altitude": 1741, "pressure": 86.25260957684378, "gps_altitude": 1743.7}
-{"altitude": 1742, "pressure": 85.54200047418594, "gps_altitude": 1745.4}
-{"altitude": 1743, "pressure": 85.6113924316391, "gps_altitude": 1742.3}
-{"altitude": 1744, "pressure": 85.98078544912217, "gps_altitude": 1744.9}
-{"altitude": 1745, "pressure": 85.57017952655407, "gps_altitude": 1747.8}
-{"altitude": 1746, "pressure": 85.51957466385387, "gps_altitude": 1748.7}
-{"altitude": 1747, "pressure": 86.10897086094047, "gps_altitude": 1745.5}
-{"altitude": 1748, "pressure": 85.98836811773283, "gps_altitude": 1751.4}
-{"altitude": 1749, "pressure": 86.10776643415001, "gps_altitude": 1744.4}
-{"altitude": 1750, "pressure": 86.3571658101109, "gps_altitude": 1746.8}
-{"altitude": 1751, "pressure": 86.03656624553452, "gps_altitude": 1752.2}
-{"altitude": 1752, "pressure": 86.31596774033993, "gps_altitude": 1748.9}
-{"altitude": 1753, "pressure": 85.995370294446, "gps_altitude": 1754.1}
-{"altitude": 1754, "pressure": 85.56477390777182, "gps_altitude": 1751.3}
-{"altitude": 1755, "pressure": 85.6241785802364, "gps_altitude": 1750.5}
-{"altitude": 1756, "pressure": 85.41358431175868, "gps_altitude": 1759.1}
-{"altitude": 1757, "pressure": 86.28299110225772, "gps_altitude": 1756.1}
-{"altitude": 1758, "pressure": 85.77239895165258, "gps_altitude": 1753.9}
-{"altitude": 1759, "pressure": 85.53180785986217, "gps_altitude": 1754.7}
-{"altitude": 1760, "pressure": 86.1012178268056, "gps_altitude": 1759.0}
-{"altitude": 1761, "pressure": 85.27062885240191, "gps_altitude": 1760.2}
-{"altitude": 1762, "pressure": 85.77004093657006, "gps_altitude": 1762.4}
-{"altitude": 1763, "pressure": 85.45945407922913, "gps_altitude": 1762.9}
-{"altitude": 1764, "pressure": 86.13886828029823, "gps_altitude": 1764.7}
-{"altitude": 1765, "pressure": 85.69828353969628, "gps_altitude": 1761.9}
-{"altitude": 1766, "pressure": 86.00769985734239, "gps_altitude": 1768.7}
-{"altitude": 1767, "pressure": 85.4271172331557, "gps_altitude": 1767.5}
-{"altitude": 1768, "pressure": 85.48653566705512, "gps_altitude": 1765.5}
-{"altitude": 1769, "pressure": 85.6859551589598, "gps_altitude": 1771.4}
-{"altitude": 1770, "pressure": 86.03537570878885, "gps_altitude": 1773.1}
-{"altitude": 1771, "pressure": 85.53479731646121, "gps_altitude": 1767.6}
-{"altitude": 1772, "pressure": 85.33421998189606, "gps_altitude": 1767.3}
-{"altitude": 1773, "pressure": 85.4936437050125, "gps_altitude": 1769.3}
-{"altitude": 1774, "pressure": 85.94306848572953, "gps_altitude": 1771.9}
-{"altitude": 1775, "pressure": 85.66249432396629, "gps_altitude": 1776.3}
-{"altitude": 1776, "pressure": 85.33192121964191, "gps_altitude": 1780.9}
-{"altitude": 1777, "pressure": 86.03134917267539, "gps_altitude": 1775.0}
-{"altitude": 1778, "pressure": 85.36077818298591, "gps_altitude": 1776.9}
-{"altitude": 1779, "pressure": 85.61020825049258, "gps_altitude": 1781.0}
-{"altitude": 1780, "pressure": 85.59963937511452, "gps_altitude": 1775.0}
-{"altitude": 1781, "pressure": 85.70907155677075, "gps_altitude": 1783.4}
-{"altitude": 1782, "pressure": 85.44850479538047, "gps_altitude": 1779.2}
-{"altitude": 1783, "pressure": 85.63793909086284, "gps_altitude": 1787.4}
-{"altitude": 1784, "pressure": 85.12737444313692, "gps_altitude": 1783.1}
-{"altitude": 1785, "pressure": 85.27681085212183, "gps_altitude": 1789.4}
-{"altitude": 1786, "pressure": 85.84624831773681, "gps_altitude": 1785.6}
-{"altitude": 1787, "pressure": 85.0656868399009, "gps_altitude": 1788.3}
-{"altitude": 1788, "pressure": 85.39512641853327, "gps_altitude": 1786.1}
-{"altitude": 1789, "pressure": 85.58456705355313, "gps_altitude": 1789.9}
-{"altitude": 1790, "pressure": 85.35400874487954, "gps_altitude": 1786.1}
-{"altitude": 1791, "pressure": 85.77345149243169, "gps_altitude": 1787.0}
-{"altitude": 1792, "pressure": 85.40289529612882, "gps_altitude": 1796.3}
-{"altitude": 1793, "pressure": 84.97234015588998, "gps_altitude": 1791.8}
-{"altitude": 1794, "pressure": 85.4317860716344, "gps_altitude": 1795.3}
-{"altitude": 1795, "pressure": 85.19123304328133, "gps_altitude": 1794.9}
-{"altitude": 1796, "pressure": 85.2506810707498, "gps_altitude": 1798.9}
-{"altitude": 1797, "pressure": 85.79013015395907, "gps_altitude": 1800.9}
-{"altitude": 1798, "pressure": 85.22958029282839, "gps_altitude": 1794.4}
-{"altitude": 1799, "pressure": 85.17903148727683, "gps_altitude": 1801.0}
-{"altitude": 1800, "pressure": 84.90848373722368, "gps_altitude": 1804.2}
-{"altitude": 1801, "pressure": 85.68793704258812, "gps_altitude": 1799.2}
-{"altitude": 1802, "pressure": 85.11739140328933, "gps_altitude": 1801.3}
-{"altitude": 1803, "pressure": 85.56684681924652, "gps_altitude": 1806.2}
-{"altitude": 1804, "pressure": 85.116303290379, "gps_altitude": 1804.4}
-{"altitude": 1805, "pressure": 85.73576081660582, "gps_altitude": 1806.2}
-{"altitude": 1806, "pressure": 84.81521939784632, "gps_altitude": 1802.4}
-{"altitude": 1807, "pressure": 85.39467903401976, "gps_altitude": 1811.7}
-{"altitude": 1808, "pressure": 85.24413972504526, "gps_altitude": 1804.6}
-{"altitude": 1809, "pressure": 85.2436014708421, "gps_altitude": 1806.9}
-{"altitude": 1810, "pressure": 85.71306427132959, "gps_altitude": 1813.2}
-{"altitude": 1811, "pressure": 85.02252812642688, "gps_altitude": 1808.5}
-{"altitude": 1812, "pressure": 85.06199303605322, "gps_altitude": 1815.9}
-{"altitude": 1813, "pressure": 85.27145900012799, "gps_altitude": 1815.7}
-{"altitude": 1814, "pressure": 85.15092601857029, "gps_altitude": 1811.8}
-{"altitude": 1815, "pressure": 84.74039409129944, "gps_altitude": 1816.6}
-{"altitude": 1816, "pressure": 85.59986321823477, "gps_altitude": 1815.9}
-{"altitude": 1817, "pressure": 84.92933339929546, "gps_altitude": 1815.3}
-{"altitude": 1818, "pressure": 85.1188046344008, "gps_altitude": 1820.1}
-{"altitude": 1819, "pressure": 84.73827692347015, "gps_altitude": 1819.1}
-{"altitude": 1820, "pressure": 85.31775026642269, "gps_altitude": 1821.6}
-{"altitude": 1821, "pressure": 85.10722466317773, "gps_altitude": 1820.2}
-{"altitude": 1822, "pressure": 84.75670011365465, "gps_altitude": 1820.8}
-{"altitude": 1823, "pressure": 85.41617661777262, "gps_altitude": 1827.2}
-{"altitude": 1824, "pressure": 84.93565417545099, "gps_altitude": 1822.3}
-{"altitude": 1825, "pressure": 85.26513278660914, "gps_altitude": 1828.3}
-{"altitude": 1826, "pressure": 85.03461245116624, "gps_altitude": 1827.3}
-{"altitude": 1827, "pressure": 85.2940931690417, "gps_altitude": 1823.8}
-{"altitude": 1828, "pressure": 84.84357494015485, "gps_altitude": 1825.3}
-{"altitude": 1829, "pressure": 85.01305776442493, "gps_altitude": 1829.1}
-{"altitude": 1830, "pressure": 84.6225416417713, "gps_altitude": 1829.3}
-{"altitude": 1831, "pressure": 84.52202657211336, "gps_altitude": 1834.2}
-{"altitude": 1832, "pressure": 84.71151255537035, "gps_altitude": 1836.8}
-{"altitude": 1833, "pressure": 85.18099959146163, "gps_altitude": 1833.8}
-{"altitude": 1834, "pressure": 84.71048768030661, "gps_altitude": 1830.7}
-{"altitude": 1835, "pressure": 84.51997682182453, "gps_altitude": 1831.9}
-{"altitude": 1836, "pressure": 85.40946701593481, "gps_altitude": 1835.5}
-{"altitude": 1837, "pressure": 84.73895826255684, "gps_altitude": 1837.3}
-{"altitude": 1838, "pressure": 85.12845056160988, "gps_altitude": 1840.4}
-{"altitude": 1839, "pressure": 85.21794391301334, "gps_altitude": 1842.2}
-{"altitude": 1840, "pressure": 85.35743831668668, "gps_altitude": 1840.6}
-{"altitude": 1841, "pressure": 84.84693377254911, "gps_altitude": 1840.9}
-{"altitude": 1842, "pressure": 85.2364302805201, "gps_altitude": 1840.7}
-{"altitude": 1843, "pressure": 84.91592784051907, "gps_altitude": 1838.7}
-{"altitude": 1844, "pressure": 84.46542645246531, "gps_altitude": 1843.6}
-{"altitude": 1845, "pressure": 85.22492611627824, "gps_altitude": 1845.3}
-{"altitude": 1846, "pressure": 85.14442683187735, "gps_altitude": 1842.9}
-{"altitude": 1847, "pressure": 84.5839285991819, "gps_altitude": 1847.7}
-{"altitude": 1848, "pressure": 84.75343141811135, "gps_altitude": 1851.2}
-{"altitude": 1849, "pressure": 84.56293528858517, "gps_altitude": 1853.1}
-{"altitude": 1850, "pressure": 85.20244021052264, "gps_altitude": 1854.1}
-{"altitude": 1851, "pressure": 84.64194618384326, "gps_altitude": 1847.6}
-{"altitude": 1852, "pressure": 84.5814532084665, "gps_altitude": 1848.5}
-{"altitude": 1853, "pressure": 85.08096128431167, "gps_altitude": 1852.3}
-{"altitude": 1854, "pressure": 84.76047041129824, "gps_altitude": 1854.6}
-{"altitude": 1855, "pressure": 84.77998058934573, "gps_altitude": 1859.6}
-{"altitude": 1856, "pressure": 85.16949181837342, "gps_altitude": 1854.0}
-{"altitude": 1857, "pressure": 84.24900409830086, "gps_altitude": 1852.5}
-{"altitude": 1858, "pressure": 84.94851742904751, "gps_altitude": 1858.5}
-{"altitude": 1859, "pressure": 84.76803181053275, "gps_altitude": 1856.1}
-{"altitude": 1860, "pressure": 84.45754724267604, "gps_altitude": 1858.6}
-{"altitude": 1861, "pressure": 84.47706372539693, "gps_altitude": 1862.0}
-{"altitude": 1862, "pressure": 84.71658125861477, "gps_altitude": 1864.0}
-{"altitude": 1863, "pressure": 84.19609984224907, "gps_altitude": 1865.3}
-{"altitude": 1864, "pressure": 84.55561947621936, "gps_altitude": 1865.8}
-{"altitude": 1865, "pressure": 84.165140160445, "gps_altitude": 1864.6}
-{"altitude": 1866, "pressure": 85.12466189484554, "gps_altitude": 1870.0}
-{"altitude": 1867, "pressure": 84.44418467934051, "gps_altitude": 1865.1}
-{"altitude": 1868, "pressure": 84.8337085138493, "gps_altitude": 1870.1}
-{"altitude": 1869, "pressure": 84.92323339829144, "gps_altitude": 1865.5}
-{"altitude": 1870, "pressure": 85.0527593325865, "gps_altitude": 1865.7}
-{"altitude": 1871, "pressure": 84.48228631665386, "gps_altitude": 1873.9}
-{"altitude": 1872, "pressure": 85.05181435041308, "gps_altitude": 1871.6}
-{"altitude": 1873, "pressure": 84.49134343378368, "gps_altitude": 1874.4}
-{"altitude": 1874, "pressure": 84.20087356668522, "gps_altitude": 1875.1}
-{"altitude": 1875, "pressure": 84.15040474903711, "gps_altitude": 1873.2}
-{"altitude": 1876, "pressure": 84.86993698075894, "gps_altitude": 1871.1}
-{"altitude": 1877, "pressure": 84.49947026177027, "gps_altitude": 1879.9}
-{"altitude": 1878, "pressure": 84.10900459199054, "gps_altitude": 1876.6}
-{"altitude": 1879, "pressure": 84.08853997133933, "gps_altitude": 1879.6}
-{"altitude": 1880, "pressure": 84.18807639973625, "gps_altitude": 1884.8}
-{"altitude": 1881, "pressure": 84.09761387710071, "gps_altitude": 1878.7}
-{"altitude": 1882, "pressure": 84.23715240335234, "gps_altitude": 1880.2}
-{"altitude": 1883, "pressure": 84.44669197841073, "gps_altitude": 1882.1}
-{"altitude": 1884, "pressure": 84.86623260219534, "gps_altitude": 1881.2}
-{"altitude": 1885, "pressure": 83.97577427462576, "gps_altitude": 1884.3}
-{"altitude": 1886, "pressure": 84.90531699562165, "gps_altitude": 1885.6}
-{"altitude": 1887, "pressure": 83.95486076510245, "gps_altitude": 1887.7}
-{"altitude": 1888, "pressure": 84.24440558298777, "gps_altitude": 1888.9}
-{"altitude": 1889, "pressure": 83.92395144919729, "gps_altitude": 1890.4}
-{"altitude": 1890, "pressure": 84.67349836365042, "gps_altitude": 1893.8}
-{"altitude": 1891, "pressure": 84.16304632626688, "gps_altitude": 1895.9}
-{"altitude": 1892, "pressure": 83.95259533696625, "gps_altitude": 1889.2}
-{"altitude": 1893, "pressure": 84.06214539566804, "gps_altitude": 1889.7}
-{"altitude": 1894, "pressure": 83.93169650229191, "gps_altitude": 1890.1}
-{"altitude": 1895, "pressure": 84.75124865675753, "gps_altitude": 1894.0}
-{"altitude": 1896, "pressure": 84.40080185898437, "gps_altitude": 1897.7}
-{"altitude": 1897, "pressure": 83.94035610889209, "gps_altitude": 1897.2}
-{"altitude": 1898, "pressure": 84.4299114064004, "gps_altitude": 1902.3}
-{"altitude": 1899, "pressure": 83.82946775142878, "gps_altitude": 1901.9}
-{"altitude": 1900, "pressure": 84.19902514389695, "gps_altitude": 1896.2}
-{"altitude": 1901, "pressure": 84.54858358372455, "gps_altitude": 1898.1}
-{"altitude": 1902, "pressure": 84.49814307083112, "gps_altitude": 1901.2}
-{"altitude": 1903, "pressure": 84.48770360513637, "gps_altitude": 1899.0}
-{"altitude": 1904, "pressure": 83.96726518655997, "gps_altitude": 1899.0}
-{"altitude": 1905, "pressure": 83.93682781502149, "gps_altitude": 1904.1}
-{"altitude": 1906, "pressure": 84.45639149044061, "gps_altitude": 1908.2}
-{"altitude": 1907, "pressure": 83.87595621273705, "gps_altitude": 1911.6}
-{"altitude": 1908, "pressure": 83.77552198183035, "gps_altitude": 1910.1}
-{"altitude": 1909, "pressure": 84.60508879764024, "gps_altitude": 1912.5}
-{"altitude": 1910, "pressure": 83.75465666008644, "gps_altitude": 1909.9}
-{"altitude": 1911, "pressure": 84.5242255690885, "gps_altitude": 1910.3}
-{"altitude": 1912, "pressure": 84.33379552456618, "gps_altitude": 1914.7}
-{"altitude": 1913, "pressure": 83.8133665264392, "gps_altitude": 1908.0}
-{"altitude": 1914, "pressure": 84.39293857462711, "gps_altitude": 1913.6}
-{"altitude": 1915, "pressure": 84.5225116690497, "gps_altitude": 1914.5}
-{"altitude": 1916, "pressure": 84.19208580962672, "gps_altitude": 1913.0}
-{"altitude": 1917, "pressure": 84.38166099627772, "gps_altitude": 1920.3}
-{"altitude": 1918, "pressure": 83.73123722892247, "gps_altitude": 1919.0}
-{"altitude": 1919, "pressure": 83.79081450748073, "gps_altitude": 1915.4}
-{"altitude": 1920, "pressure": 84.34039283187212, "gps_altitude": 1917.5}
-{"altitude": 1921, "pressure": 83.8599722020164, "gps_altitude": 1918.7}
-{"altitude": 1922, "pressure": 84.18955261783333, "gps_altitude": 1922.0}
-{"altitude": 1923, "pressure": 84.50913407924254, "gps_altitude": 1918.4}
-{"altitude": 1924, "pressure": 83.54871658616382, "gps_altitude": 1923.4}
-{"altitude": 1925, "pressure": 84.30830013851693, "gps_altitude": 1924.9}
-{"altitude": 1926, "pressure": 84.26788473622152, "gps_altitude": 1924.5}
-{"altitude": 1927, "pressure": 83.87747037919739, "gps_altitude": 1931.7}
-{"altitude": 1928, "pressure": 84.44705706736433, "gps_altitude": 1925.4}
-{"altitude": 1929, "pressure": 84.05664480064196, "gps_altitude": 1929.3}
-{"altitude": 1930, "pressure": 84.14623357895012, "gps_altitude": 1934.5}
-{"altitude": 1931, "pressure": 84.06582340220861, "gps_altitude": 1932.6}
-{"altitude": 1932, "pressure": 83.71541427033708, "gps_altitude": 1930.6}
-{"altitude": 1933, "pressure": 83.96500618325535, "gps_altitude": 1930.4}
-{"altitude": 1934, "pressure": 84.37459914088326, "gps_altitude": 1932.5}
-{"altitude": 1935, "pressure": 83.46419314314045, "gps_altitude": 1934.6}
-{"altitude": 1936, "pressure": 83.48378818994678, "gps_altitude": 1934.0}
-{"altitude": 1937, "pressure": 84.09338428122203, "gps_altitude": 1941.9}
-{"altitude": 1938, "pressure": 83.61298141688602, "gps_altitude": 1935.7}
-{"altitude": 1939, "pressure": 84.33257959685845, "gps_altitude": 1937.9}
-{"altitude": 1940, "pressure": 84.37217882105917, "gps_altitude": 1937.6}
-{"altitude": 1941, "pressure": 84.34177908940804, "gps_altitude": 1936.1}
-{"altitude": 1942, "pressure": 84.27138040182474, "gps_altitude": 1938.0}
-{"altitude": 1943, "pressure": 83.57098275822916, "gps_altitude": 1940.1}
-{"altitude": 1944, "pressure": 83.78058615854114, "gps_altitude": 1946.9}
-{"altitude": 1945, "pressure": 84.05019060268042, "gps_altitude": 1946.2}
-{"altitude": 1946, "pressure": 83.47979609056684, "gps_altitude": 1942.3}
-{"altitude": 1947, "pressure": 83.89940262212029, "gps_altitude": 1949.9}
-{"altitude": 1948, "pressure": 83.9990101972605, "gps_altitude": 1943.3}
-{"altitude": 1949, "pressure": 83.65861881590737, "gps_altitude": 1953.9}
-{"altitude": 1950, "pressure": 84.15822847798078, "gps_altitude": 1947.7}
-{"altitude": 1951, "pressure": 83.90783918340047, "gps_altitude": 1948.0}
-{"altitude": 1952, "pressure": 83.61745093208634, "gps_altitude": 1956.8}
-{"altitude": 1953, "pressure": 83.77706372395829, "gps_altitude": 1957.9}
-{"altitude": 1954, "pressure": 83.57667755893607, "gps_altitude": 1949.0}
-{"altitude": 1955, "pressure": 83.8162924369396, "gps_altitude": 1955.6}
-{"altitude": 1956, "pressure": 83.5659083578888, "gps_altitude": 1951.7}
-{"altitude": 1957, "pressure": 84.12552532170342, "gps_altitude": 1958.6}
-{"altitude": 1958, "pressure": 83.5151433283034, "gps_altitude": 1954.5}
-{"altitude": 1959, "pressure": 83.52476237760867, "gps_altitude": 1963.5}
-{"altitude": 1960, "pressure": 83.81438246953898, "gps_altitude": 1963.7}
-{"altitude": 1961, "pressure": 83.73400360401429, "gps_altitude": 1962.0}
-{"altitude": 1962, "pressure": 83.49362578095457, "gps_altitude": 1964.9}
-{"altitude": 1963, "pressure": 83.55324900027955, "gps_altitude": 1966.3}
-{"altitude": 1964, "pressure": 83.41287326190924, "gps_altitude": 1968.8}
-{"altitude": 1965, "pressure": 83.69249856576354, "gps_altitude": 1965.4}
-{"altitude": 1966, "pressure": 83.5021249117623, "gps_altitude": 1962.0}
-{"altitude": 1967, "pressure": 83.48175229982544, "gps_altitude": 1966.1}
-{"altitude": 1968, "pressure": 83.43138072987298, "gps_altitude": 1968.4}
-{"altitude": 1969, "pressure": 83.6910102018247, "gps_altitude": 1969.7}
-{"altitude": 1970, "pressure": 83.4406407156006, "gps_altitude": 1973.8}
-{"altitude": 1971, "pressure": 83.6102722711206, "gps_altitude": 1973.6}
-{"altitude": 1972, "pressure": 83.23990486830462, "gps_altitude": 1972.0}
-{"altitude": 1973, "pressure": 83.33953850707259, "gps_altitude": 1976.3}
-{"altitude": 1974, "pressure": 83.70917318734452, "gps_altitude": 1972.1}
-{"altitude": 1975, "pressure": 83.66880890904024, "gps_altitude": 1978.7}
-{"altitude": 1976, "pressure": 83.16844567207976, "gps_altitude": 1975.7}
-{"altitude": 1977, "pressure": 83.55808347638309, "gps_altitude": 1976.6}
-{"altitude": 1978, "pressure": 83.87772232187007, "gps_altitude": 1981.4}
-{"altitude": 1979, "pressure": 83.45736220846074, "gps_altitude": 1976.8}
-{"altitude": 1980, "pressure": 83.86700313607511, "gps_altitude": 1976.6}
-{"altitude": 1981, "pressure": 83.73664510463301, "gps_altitude": 1979.3}
-{"altitude": 1982, "pressure": 83.53628811405454, "gps_altitude": 1985.9}
-{"altitude": 1983, "pressure": 82.96593216425967, "gps_altitude": 1983.5}
-{"altitude": 1984, "pressure": 83.3055772551683, "gps_altitude": 1987.5}
-{"altitude": 1985, "pressure": 83.85522338670049, "gps_altitude": 1988.1}
-{"altitude": 1986, "pressure": 83.87487055877625, "gps_altitude": 1989.9}
-{"altitude": 1987, "pressure": 83.45451877131549, "gps_altitude": 1990.7}
-{"altitude": 1988, "pressure": 83.10416802423828, "gps_altitude": 1988.4}
-{"altitude": 1989, "pressure": 82.97381831746463, "gps_altitude": 1984.8}
-{"altitude": 1990, "pressure": 83.1934696509145, "gps_altitude": 1994.5}
-{"altitude": 1991, "pressure": 83.02312202450793, "gps_altitude": 1994.5}
-{"altitude": 1992, "pressure": 83.79277543816498, "gps_altitude": 1994.0}
-{"altitude": 1993, "pressure": 82.92242989180558, "gps_altitude": 1989.6}
-{"altitude": 1994, "pressure": 83.29208538534981, "gps_altitude": 1989.9}
-{"altitude": 1995, "pressure": 83.75174191871776, "gps_altitude": 1990.0}
-{"altitude": 1996, "pressure": 82.99139949182934, "gps_altitude": 1991.7}
-{"altitude": 1997, "pressure": 83.40105810460467, "gps_altitude": 1998.3}
-{"altitude": 1998, "pressure": 83.04071775696382, "gps_altitude": 1997.6}
-{"altitude": 1999, "pressure": 83.22037844882675, "gps_altitude": 2002.1}
-{"altitude": 2000, "pressure": 83.08004018011354, "gps_altitude": 1999.8}
-{"altitude": 2001, "pressure": 82.90970295074432, "gps_altitude": 2004.2}
-{"altitude": 2002, "pressure": 83.35936676063908, "gps_altitude": 2003.7}
-{"altitude": 2003, "pressure": 82.91903160971786, "gps_altitude": 2003.1}
-{"altitude": 2004, "pressure": 82.85869749790082, "gps_altitude": 2004.6}
-{"altitude": 2005, "pressure": 82.78836442510796, "gps_altitude": 2009.7}
-{"altitude": 2006, "pressure": 83.51803239125935, "gps_altitude": 2009.3}
-{"altitude": 2007, "pressure": 83.43770139627519, "gps_altitude": 2008.3}
-{"altitude": 2008, "pressure": 82.7573714400754, "gps_altitude": 2007.1}
-{"altitude": 2009, "pressure": 82.71704252258016, "gps_altitude": 2004.7}
-{"altitude": 2010, "pressure": 83.21671464370961, "gps_altitude": 2011.6}
-{"altitude": 2011, "pressure": 82.81638780338373, "gps_altitude": 2010.5}
-{"altitude": 2012, "pressure": 83.02606200152269, "gps_altitude": 2009.9}
-{"altitude": 2013, "pressure": 83.15573723804665, "gps_altitude": 2010.2}
-{"altitude": 2014, "pressure": 82.65541351287563, "gps_altitude": 2018.9}
-{"altitude": 2015, "pressure": 83.06509082592976, "gps_altitude": 2018.9}
-{"altitude": 2016, "pressure": 83.22476917712923, "gps_altitude": 2015.4}
-{"altitude": 2017, "pressure": 83.42444856639409, "gps_altitude": 2014.8}
-{"altitude": 2018, "pressure": 83.5241289936445, "gps_altitude": 2020.1}
-{"altitude": 2019, "pressure": 83.27381045880061, "gps_altitude": 2014.5}
-{"altitude": 2020, "pressure": 83.35349296178251, "gps_altitude": 2023.6}
-{"altitude": 2021, "pressure": 83.20317650251036, "gps_altitude": 2018.1}
-{"altitude": 2022, "pressure": 83.35286108090436, "gps_altitude": 2024.3}
-{"altitude": 2023, "pressure": 82.54254669688457, "gps_altitude": 2018.1}
-{"altitude": 2024, "pressure": 83.36223335037118, "gps_altitude": 2027.5}
-{"altitude": 2025, "pressure": 82.58192104128445, "gps_altitude": 2027.5}
-{"altitude": 2026, "pressure": 82.50160976954437, "gps_altitude": 2024.2}
-{"altitude": 2027, "pressure": 82.67129953507119, "gps_altitude": 2030.1}
-{"altitude": 2028, "pressure": 83.44099033778512, "gps_altitude": 2032.4}
-{"altitude": 2029, "pressure": 83.38068217760626, "gps_altitude": 2033.4}
-{"altitude": 2030, "pressure": 82.81037505445481, "gps_altitude": 2033.9}
-{"altitude": 2031, "pressure": 82.79006896825099, "gps_altitude": 2028.7}
-{"altitude": 2032, "pressure": 82.98976391891502, "gps_altitude": 2028.5}
-{"altitude": 2033, "pressure": 83.39945990636697, "gps_altitude": 2033.8}
-{"altitude": 2034, "pressure": 82.86915693052711, "gps_altitude": 2036.6}
-{"altitude": 2035, "pressure": 82.5388549913157, "gps_altitude": 2035.4}
-{"altitude": 2036, "pressure": 83.02855408865284, "gps_altitude": 2034.7}
-{"altitude": 2037, "pressure": 82.44825422245877, "gps_altitude": 2040.2}
-{"altitude": 2038, "pressure": 83.29795539265379, "gps_altitude": 2038.2}
-{"altitude": 2039, "pressure": 83.27765759915798, "gps_altitude": 2041.9}
-{"altitude": 2040, "pressure": 82.51736084189162, "gps_altitude": 2040.9}
-{"altitude": 2041, "pressure": 83.08706512077501, "gps_altitude": 2043.7}
-{"altitude": 2042, "pressure": 82.70677043572827, "gps_altitude": 2046.3}
-{"altitude": 2043, "pressure": 82.66647678667168, "gps_altitude": 2041.5}
-{"altitude": 2044, "pressure": 82.91618417352554, "gps_altitude": 2046.6}
-{"altitude": 2045, "pressure": 83.16589259620997, "gps_altitude": 2049.9}
-{"altitude": 2046, "pressure": 82.7556020546453, "gps_altitude": 2041.4}
-{"altitude": 2047, "pressure": 83.1653125487518, "gps_altitude": 2046.2}
-{"altitude": 2048, "pressure": 82.38502407844966, "gps_altitude": 2049.5}
-{"altitude": 2049, "pressure": 82.42473664365917, "gps_altitude": 2045.3}
-{"altitude": 2050, "pressure": 82.35445024430064, "gps_altitude": 2052.7}
-{"altitude": 2051, "pressure": 83.16416488029427, "gps_altitude": 2048.3}
-{"altitude": 2052, "pressure": 82.64388055156033, "gps_altitude": 2056.3}
-{"altitude": 2053, "pressure": 83.0835972580192, "gps_altitude": 2057.1}
-{"altitude": 2054, "pressure": 83.08331499959102, "gps_altitude": 2058.6}
-{"altitude": 2055, "pressure": 82.82303377619618, "gps_altitude": 2058.1}
-{"altitude": 2056, "pressure": 82.31275358775497, "gps_altitude": 2057.4}
-{"altitude": 2057, "pressure": 83.10247443418763, "gps_altitude": 2061.4}
-{"altitude": 2058, "pressure": 82.28219631541445, "gps_altitude": 2060.7}
-{"altitude": 2059, "pressure": 82.19191923135584, "gps_altitude": 2058.2}
-{"altitude": 2060, "pressure": 82.34164318193196, "gps_altitude": 2059.3}
-{"altitude": 2061, "pressure": 82.18136816706321, "gps_altitude": 2062.7}
-{"altitude": 2062, "pressure": 82.54109418666994, "gps_altitude": 2059.0}
-{"altitude": 2063, "pressure": 82.30082124067238, "gps_altitude": 2060.2}
-{"altitude": 2064, "pressure": 82.30054932899088, "gps_altitude": 2068.9}
-{"altitude": 2065, "pressure": 82.19027845154585, "gps_altitude": 2060.8}
-{"altitude": 2066, "pressure": 82.3700086082575, "gps_altitude": 2067.5}
-{"altitude": 2067, "pressure": 82.42973979904625, "gps_altitude": 2066.9}
-{"altitude": 2068, "pressure": 82.09947202383245, "gps_altitude": 2069.4}
-{"altitude": 2069, "pressure": 82.40920528253636, "gps_altitude": 2070.9}
-{"altitude": 2070, "pressure": 82.65893957507839, "gps_altitude": 2069.8}
-{"altitude": 2071, "pressure": 82.48867490137893, "gps_altitude": 2072.2}
-{"altitude": 2072, "pressure": 82.69841126135827, "gps_altitude": 2075.3}
-{"altitude": 2073, "pressure": 82.63814865493677, "gps_altitude": 2073.4}
-{"altitude": 2074, "pressure": 82.2378870820349, "gps_altitude": 2073.3}
-{"altitude": 2075, "pressure": 82.13762654257292, "gps_altitude": 2076.4}
-{"altitude": 2076, "pressure": 82.7473670364712, "gps_altitude": 2078.8}
-{"altitude": 2077, "pressure": 82.29710856365026, "gps_altitude": 2078.0}
-{"altitude": 2078, "pressure": 82.62685112403032, "gps_altitude": 2077.8}
-{"altitude": 2079, "pressure": 82.06659471753184, "gps_altitude": 2077.1}
-{"altitude": 2080, "pressure": 82.35633934407525, "gps_altitude": 2079.3}
-{"altitude": 2081, "pressure": 82.29608500358086, "gps_altitude": 2085.6}
-{"altitude": 2082, "pressure": 82.49583169596912, "gps_altitude": 2077.3}
-{"altitude": 2083, "pressure": 82.89557942116048, "gps_altitude": 2086.2}
-{"altitude": 2084, "pressure": 81.97532817907526, "gps_altitude": 2082.2}
-{"altitude": 2085, "pressure": 82.7350779696339, "gps_altitude": 2080.5}
-{"altitude": 2086, "pressure": 82.67482879275691, "gps_altitude": 2088.3}
-{"altitude": 2087, "pressure": 82.85458064836457, "gps_altitude": 2088.9}
-{"altitude": 2088, "pressure": 82.84433353637739, "gps_altitude": 2083.4}
-{"altitude": 2089, "pressure": 82.72408745671582, "gps_altitude": 2088.5}
-{"altitude": 2090, "pressure": 81.97384240930022, "gps_altitude": 2094.7}
-{"altitude": 2091, "pressure": 82.67359839405107, "gps_altitude": 2092.2}
-{"altitude": 2092, "pressure": 82.17335541088886, "gps_altitude": 2088.4}
-{"altitude": 2093, "pressure": 82.39311345973393, "gps_altitude": 2096.7}
-{"altitude": 2094, "pressure": 82.41287254050681, "gps_altitude": 2091.9}
-{"altitude": 2095, "pressure": 82.58263265312797, "gps_altitude": 2097.1}
-{"altitude": 2096, "pressure": 82.2423937975178, "gps_altitude": 2099.3}
-{"altitude": 2097, "pressure": 82.65215597359682, "gps_altitude": 2096.1}
-{"altitude": 2098, "pressure": 82.32191918128547, "gps_altitude": 2100.6}
-{"altitude": 2099, "pressure": 81.75168342050429, "gps_altitude": 2096.6}
-{"altitude": 2100, "pressure": 81.80144869117363, "gps_altitude": 2104.9}
-{"altitude": 2101, "pressure": 81.8112149932141, "gps_altitude": 2097.9}
-{"altitude": 2102, "pressure": 82.29098232654614, "gps_altitude": 2101.3}
-{"altitude": 2103, "pressure": 82.3107506910902, "gps_altitude": 2098.6}
-{"altitude": 2104, "pressure": 82.38052008676681, "gps_altitude": 2105.1}
-{"altitude": 2105, "pressure": 82.31029051349651, "gps_altitude": 2106.9}
-{"altitude": 2106, "pressure": 82.10006197119972, "gps_altitude": 2107.2}
-{"altitude": 2107, "pressure": 82.61983445979698, "gps_altitude": 2107.9}
-{"altitude": 2108, "pressure": 81.86960797920887, "gps_altitude": 2104.5}
-{"altitude": 2109, "pressure": 81.76938252935578, "gps_altitude": 2107.3}
-{"altitude": 2110, "pressure": 82.05915811015831, "gps_altitude": 2114.8}
-{"altitude": 2111, "pressure": 82.038934721537, "gps_altitude": 2114.2}
-{"altitude": 2112, "pressure": 82.36871236341233, "gps_altitude": 2114.7}
-{"altitude": 2113, "pressure": 82.2284910357048, "gps_altitude": 2111.0}
-{"altitude": 2114, "pressure": 81.6782707383351, "gps_altitude": 2110.6}
-{"altitude": 2115, "pressure": 82.4380514712236, "gps_altitude": 2112.8}
-{"altitude": 2116, "pressure": 82.53783323429091, "gps_altitude": 2115.7}
-{"altitude": 2117, "pressure": 82.40761602745764, "gps_altitude": 2117.8}
-{"altitude": 2118, "pressure": 81.86739985064423, "gps_altitude": 2121.1}
-{"altitude": 2119, "pressure": 81.59718470377132, "gps_altitude": 2119.7}
-{"altitude": 2120, "pressure": 81.9269705867595, "gps_altitude": 2118.2}
-{"altitude": 2121, "pressure": 82.0667574995292, "gps_altitude": 2118.6}
-{"altitude": 2122, "pressure": 81.78654544200111, "gps_altitude": 2126.6}
-{"altitude": 2123, "pressure": 81.50633441409582, "gps_altitude": 2121.1}
-{"altitude": 2124, "pressure": 81.73612441573381, "gps_altitude": 2124.3}
-{"altitude": 2125, "pressure": 82.3459154468357, "gps_altitude": 2124.4}
-{"altitude": 2126, "pressure": 81.48570750732216, "gps_altitude": 2126.4}
-{"altitude": 2127, "pressure": 81.78550059711367, "gps_altitude": 2127.2}
-{"altitude": 2128, "pressure": 82.09529471613088, "gps_altitude": 2125.7}
-{"altitude": 2129, "pressure": 81.91508986429442, "gps_altitude": 2127.0}
-{"altitude": 2130, "pressure": 82.05488604152481, "gps_altitude": 2133.8}
-{"altitude": 2131, "pressure": 82.26468324774271, "gps_altitude": 2127.6}
-{"altitude": 2132, "pressure": 81.92448148286879, "gps_altitude": 2129.9}
-{"altitude": 2133, "pressure": 82.17428074682356, "gps_altitude": 2131.5}
+{"altitude": 1524, "pressure": 84.29726094236003, "gps_altitude": 1521.701, "gps_variance": 2.299}
+{"altitude": 1525, "pressure": 83.8569100815814, "gps_altitude": 1524.301, "gps_variance": 0.699}
+{"altitude": 1526, "pressure": 84.55656024986592, "gps_altitude": 1527.901, "gps_variance": 1.9009999999999998}
+{"altitude": 1527, "pressure": 84.51621144713539, "gps_altitude": 1527.301, "gps_variance": 0.301}
+{"altitude": 1528, "pressure": 84.47586367331145, "gps_altitude": 1529.701, "gps_variance": 1.7009999999999998}
+{"altitude": 1529, "pressure": 84.65551692831588, "gps_altitude": 1532.801, "gps_variance": 3.8009999999999997}
+{"altitude": 1530, "pressure": 84.03517121207045, "gps_altitude": 1525.701, "gps_variance": 4.2989999999999995}
+{"altitude": 1531, "pressure": 83.78482652449684, "gps_altitude": 1527.501, "gps_variance": 3.499}
+{"altitude": 1532, "pressure": 83.98448286551682, "gps_altitude": 1536.401, "gps_variance": 4.401000000000001}
+{"altitude": 1533, "pressure": 84.56414023505221, "gps_altitude": 1529.001, "gps_variance": 3.999}
+{"altitude": 1534, "pressure": 84.12379863302468, "gps_altitude": 1531.401, "gps_variance": 2.599}
+{"altitude": 1535, "pressure": 83.94345805935603, "gps_altitude": 1535.401, "gps_variance": 0.401}
+{"altitude": 1536, "pressure": 84.64311851396806, "gps_altitude": 1540.401, "gps_variance": 4.401000000000001}
+{"altitude": 1537, "pressure": 84.09277999678248, "gps_altitude": 1538.801, "gps_variance": 1.801}
+{"altitude": 1538, "pressure": 83.79244250772108, "gps_altitude": 1542.701, "gps_variance": 4.7010000000000005}
+{"altitude": 1539, "pressure": 83.83210604670573, "gps_altitude": 1539.501, "gps_variance": 0.501}
+{"altitude": 1540, "pressure": 83.88177061365805, "gps_altitude": 1544.001, "gps_variance": 4.001}
+{"altitude": 1541, "pressure": 84.08143620849994, "gps_altitude": 1536.401, "gps_variance": 4.598999999999999}
+{"altitude": 1542, "pressure": 83.78110283115319, "gps_altitude": 1540.101, "gps_variance": 1.899}
+{"altitude": 1543, "pressure": 84.41077048153954, "gps_altitude": 1543.601, "gps_variance": 0.601}
+{"altitude": 1544, "pressure": 84.44043915958083, "gps_altitude": 1545.801, "gps_variance": 1.801}
+{"altitude": 1545, "pressure": 84.56010886519888, "gps_altitude": 1543.301, "gps_variance": 1.699}
+{"altitude": 1546, "pressure": 83.64977959831543, "gps_altitude": 1547.601, "gps_variance": 1.601}
+{"altitude": 1547, "pressure": 83.58945135885236, "gps_altitude": 1548.901, "gps_variance": 1.9009999999999998}
+{"altitude": 1548, "pressure": 83.6191241467315, "gps_altitude": 1548.801, "gps_variance": 0.801}
+{"altitude": 1549, "pressure": 84.33879796187458, "gps_altitude": 1550.701, "gps_variance": 1.7009999999999998}
+{"altitude": 1550, "pressure": 83.79847280420346, "gps_altitude": 1552.301, "gps_variance": 2.3009999999999997}
+{"altitude": 1551, "pressure": 84.09814867364004, "gps_altitude": 1551.601, "gps_variance": 0.601}
+{"altitude": 1552, "pressure": 84.01782557010606, "gps_altitude": 1552.201, "gps_variance": 0.201}
+{"altitude": 1553, "pressure": 83.63750349352338, "gps_altitude": 1555.101, "gps_variance": 2.101}
+{"altitude": 1554, "pressure": 84.28718244381393, "gps_altitude": 1557.501, "gps_variance": 3.501}
+{"altitude": 1555, "pressure": 84.44686242089941, "gps_altitude": 1559.701, "gps_variance": 4.7010000000000005}
+{"altitude": 1556, "pressure": 83.48654342470176, "gps_altitude": 1555.701, "gps_variance": 0.299}
+{"altitude": 1557, "pressure": 83.6562254551428, "gps_altitude": 1557.001, "gps_variance": 0.001}
+{"altitude": 1558, "pressure": 84.17590851214446, "gps_altitude": 1554.901, "gps_variance": 3.099}
+{"altitude": 1559, "pressure": 84.16559259562848, "gps_altitude": 1563.101, "gps_variance": 4.101}
+{"altitude": 1560, "pressure": 83.8952777055168, "gps_altitude": 1556.701, "gps_variance": 3.299}
+{"altitude": 1561, "pressure": 84.37496384173134, "gps_altitude": 1560.701, "gps_variance": 0.299}
+{"altitude": 1562, "pressure": 83.86465100419385, "gps_altitude": 1566.801, "gps_variance": 4.801}
+{"altitude": 1563, "pressure": 83.68433919282627, "gps_altitude": 1559.201, "gps_variance": 3.799}
+{"altitude": 1564, "pressure": 83.88402840755053, "gps_altitude": 1561.401, "gps_variance": 2.599}
+{"altitude": 1565, "pressure": 83.63371864828844, "gps_altitude": 1568.901, "gps_variance": 3.901}
+{"altitude": 1566, "pressure": 84.0634099149619, "gps_altitude": 1564.901, "gps_variance": 1.0990000000000002}
+{"altitude": 1567, "pressure": 84.01310220749288, "gps_altitude": 1562.401, "gps_variance": 4.598999999999999}
+{"altitude": 1568, "pressure": 83.75279552580318, "gps_altitude": 1567.601, "gps_variance": 0.399}
+{"altitude": 1569, "pressure": 83.51248986981474, "gps_altitude": 1570.901, "gps_variance": 1.9009999999999998}
+{"altitude": 1570, "pressure": 83.80218523944953, "gps_altitude": 1574.401, "gps_variance": 4.401000000000001}
+{"altitude": 1571, "pressure": 83.50188163462936, "gps_altitude": 1573.301, "gps_variance": 2.3009999999999997}
+{"altitude": 1572, "pressure": 84.23157905527617, "gps_altitude": 1573.901, "gps_variance": 1.9009999999999998}
+{"altitude": 1573, "pressure": 83.45127750131198, "gps_altitude": 1568.701, "gps_variance": 4.2989999999999995}
+{"altitude": 1574, "pressure": 84.07097697265856, "gps_altitude": 1573.701, "gps_variance": 0.299}
+{"altitude": 1575, "pressure": 83.7706774692379, "gps_altitude": 1577.701, "gps_variance": 2.701}
+{"altitude": 1576, "pressure": 83.81037899097203, "gps_altitude": 1573.101, "gps_variance": 2.899}
+{"altitude": 1577, "pressure": 83.76008153778271, "gps_altitude": 1577.501, "gps_variance": 0.501}
+{"altitude": 1578, "pressure": 83.88978510959198, "gps_altitude": 1581.801, "gps_variance": 3.8009999999999997}
+{"altitude": 1579, "pressure": 83.67948970632183, "gps_altitude": 1582.301, "gps_variance": 3.3009999999999997}
+{"altitude": 1580, "pressure": 84.1191953278941, "gps_altitude": 1576.201, "gps_variance": 3.799}
+{"altitude": 1581, "pressure": 83.6989019742308, "gps_altitude": 1577.801, "gps_variance": 3.1990000000000003}
+{"altitude": 1582, "pressure": 83.37860964525392, "gps_altitude": 1586.401, "gps_variance": 4.401000000000001}
+{"altitude": 1583, "pressure": 83.26831834088532, "gps_altitude": 1581.301, "gps_variance": 1.699}
+{"altitude": 1584, "pressure": 84.13802806104704, "gps_altitude": 1580.001, "gps_variance": 3.999}
+{"altitude": 1585, "pressure": 83.75773880566108, "gps_altitude": 1589.801, "gps_variance": 4.801}
+{"altitude": 1586, "pressure": 83.17745057464931, "gps_altitude": 1581.301, "gps_variance": 4.699}
+{"altitude": 1587, "pressure": 83.75716336793376, "gps_altitude": 1587.001, "gps_variance": 0.001}
+{"altitude": 1588, "pressure": 83.22687718543648, "gps_altitude": 1585.101, "gps_variance": 2.899}
+{"altitude": 1589, "pressure": 83.39659202707934, "gps_altitude": 1585.701, "gps_variance": 3.299}
+{"altitude": 1590, "pressure": 83.19630789278435, "gps_altitude": 1590.301, "gps_variance": 0.301}
+{"altitude": 1591, "pressure": 83.52602478247361, "gps_altitude": 1591.601, "gps_variance": 0.601}
+{"altitude": 1592, "pressure": 83.85574269606897, "gps_altitude": 1592.301, "gps_variance": 0.301}
+{"altitude": 1593, "pressure": 84.06546163349253, "gps_altitude": 1594.101, "gps_variance": 1.101}
+{"altitude": 1594, "pressure": 84.0551815946663, "gps_altitude": 1592.301, "gps_variance": 1.699}
+{"altitude": 1595, "pressure": 83.1849025795122, "gps_altitude": 1593.101, "gps_variance": 1.899}
+{"altitude": 1596, "pressure": 83.84462458795231, "gps_altitude": 1600.701, "gps_variance": 4.7010000000000005}
+{"altitude": 1597, "pressure": 83.4443476199087, "gps_altitude": 1595.001, "gps_variance": 1.999}
+{"altitude": 1598, "pressure": 83.86407167530326, "gps_altitude": 1595.501, "gps_variance": 2.499}
+{"altitude": 1599, "pressure": 83.18379675405811, "gps_altitude": 1602.501, "gps_variance": 3.501}
+{"altitude": 1600, "pressure": 83.26352285609529, "gps_altitude": 1599.601, "gps_variance": 0.399}
+{"altitude": 1601, "pressure": 83.96324998133679, "gps_altitude": 1604.701, "gps_variance": 3.701}
+{"altitude": 1602, "pressure": 83.95297812970463, "gps_altitude": 1598.601, "gps_variance": 3.399}
+{"altitude": 1603, "pressure": 83.29270730112093, "gps_altitude": 1601.901, "gps_variance": 1.0990000000000002}
+{"altitude": 1604, "pressure": 83.59243749550765, "gps_altitude": 1599.201, "gps_variance": 4.7989999999999995}
+{"altitude": 1605, "pressure": 83.85216871278689, "gps_altitude": 1603.801, "gps_variance": 1.199}
+{"altitude": 1606, "pressure": 83.79190095288077, "gps_altitude": 1607.101, "gps_variance": 1.101}
+{"altitude": 1607, "pressure": 83.9216342157112, "gps_altitude": 1607.501, "gps_variance": 0.501}
+{"altitude": 1608, "pressure": 83.37136850120032, "gps_altitude": 1603.801, "gps_variance": 4.199}
+{"altitude": 1609, "pressure": 83.10110380927026, "gps_altitude": 1613.701, "gps_variance": 4.7010000000000005}
+{"altitude": 1610, "pressure": 83.35084013984297, "gps_altitude": 1609.701, "gps_variance": 0.299}
+{"altitude": 1611, "pressure": 82.91057749284059, "gps_altitude": 1611.201, "gps_variance": 0.201}
+{"altitude": 1612, "pressure": 83.17031586818524, "gps_altitude": 1614.101, "gps_variance": 2.101}
+{"altitude": 1613, "pressure": 83.18005526579894, "gps_altitude": 1615.801, "gps_variance": 2.8009999999999997}
+{"altitude": 1614, "pressure": 83.80979568560379, "gps_altitude": 1614.501, "gps_variance": 0.501}
+{"altitude": 1615, "pressure": 83.52953712752192, "gps_altitude": 1613.601, "gps_variance": 1.399}
+{"altitude": 1616, "pressure": 83.72927959147536, "gps_altitude": 1618.301, "gps_variance": 2.3009999999999997}
+{"altitude": 1617, "pressure": 83.75902307738625, "gps_altitude": 1612.101, "gps_variance": 4.899}
+{"altitude": 1618, "pressure": 83.50876758517673, "gps_altitude": 1617.701, "gps_variance": 0.299}
+{"altitude": 1619, "pressure": 83.66851311476883, "gps_altitude": 1618.501, "gps_variance": 0.499}
+{"altitude": 1620, "pressure": 83.5082596660847, "gps_altitude": 1624.201, "gps_variance": 4.2010000000000005}
+{"altitude": 1621, "pressure": 83.29800723904646, "gps_altitude": 1624.801, "gps_variance": 3.8009999999999997}
+{"altitude": 1622, "pressure": 82.94775583357631, "gps_altitude": 1617.601, "gps_variance": 4.399}
+{"altitude": 1623, "pressure": 82.92750544959621, "gps_altitude": 1622.601, "gps_variance": 0.399}
+{"altitude": 1624, "pressure": 83.56725608702838, "gps_altitude": 1624.601, "gps_variance": 0.601}
+{"altitude": 1625, "pressure": 83.00700774579502, "gps_altitude": 1620.901, "gps_variance": 4.098999999999999}
+{"altitude": 1626, "pressure": 82.78676042581814, "gps_altitude": 1627.601, "gps_variance": 1.601}
+{"altitude": 1627, "pressure": 83.27651412701994, "gps_altitude": 1625.201, "gps_variance": 1.7990000000000002}
+{"altitude": 1628, "pressure": 83.26626884932261, "gps_altitude": 1623.101, "gps_variance": 4.899}
+{"altitude": 1629, "pressure": 82.9160245926482, "gps_altitude": 1625.001, "gps_variance": 3.999}
+{"altitude": 1630, "pressure": 83.11578135691893, "gps_altitude": 1628.401, "gps_variance": 1.5990000000000002}
+{"altitude": 1631, "pressure": 83.265539142057, "gps_altitude": 1626.701, "gps_variance": 4.2989999999999995}
+{"altitude": 1632, "pressure": 83.04529794798445, "gps_altitude": 1629.601, "gps_variance": 2.399}
+{"altitude": 1633, "pressure": 83.20505777462353, "gps_altitude": 1637.201, "gps_variance": 4.2010000000000005}
+{"altitude": 1634, "pressure": 83.32481862189645, "gps_altitude": 1633.601, "gps_variance": 0.399}
+{"altitude": 1635, "pressure": 83.35458048972527, "gps_altitude": 1632.101, "gps_variance": 2.899}
+{"altitude": 1636, "pressure": 83.50434337803222, "gps_altitude": 1634.301, "gps_variance": 1.699}
+{"altitude": 1637, "pressure": 82.64410728673955, "gps_altitude": 1634.201, "gps_variance": 2.799}
+{"altitude": 1638, "pressure": 83.02387221576936, "gps_altitude": 1638.601, "gps_variance": 0.601}
+{"altitude": 1639, "pressure": 83.16363816504385, "gps_altitude": 1639.601, "gps_variance": 0.601}
+{"altitude": 1640, "pressure": 83.30340513448527, "gps_altitude": 1636.501, "gps_variance": 3.499}
+{"altitude": 1641, "pressure": 83.26317312401575, "gps_altitude": 1641.001, "gps_variance": 0.001}
+{"altitude": 1642, "pressure": 83.41294213355752, "gps_altitude": 1638.301, "gps_variance": 3.6990000000000003}
+{"altitude": 1643, "pressure": 83.30271216303287, "gps_altitude": 1639.401, "gps_variance": 3.599}
+{"altitude": 1644, "pressure": 83.55248321236387, "gps_altitude": 1647.801, "gps_variance": 3.8009999999999997}
+{"altitude": 1645, "pressure": 82.6522552814728, "gps_altitude": 1645.101, "gps_variance": 0.101}
+{"altitude": 1646, "pressure": 83.50202837028192, "gps_altitude": 1645.601, "gps_variance": 0.399}
+{"altitude": 1647, "pressure": 83.12180247871338, "gps_altitude": 1646.401, "gps_variance": 0.599}
+{"altitude": 1648, "pressure": 82.55157760668943, "gps_altitude": 1650.201, "gps_variance": 2.201}
+{"altitude": 1649, "pressure": 83.44135375413238, "gps_altitude": 1652.901, "gps_variance": 3.901}
+{"altitude": 1650, "pressure": 83.14113092096434, "gps_altitude": 1648.101, "gps_variance": 1.899}
+{"altitude": 1651, "pressure": 82.55090910710763, "gps_altitude": 1650.101, "gps_variance": 0.899}
+{"altitude": 1652, "pressure": 83.44068831248451, "gps_altitude": 1656.401, "gps_variance": 4.401000000000001}
+{"altitude": 1653, "pressure": 82.67046853701714, "gps_altitude": 1650.201, "gps_variance": 2.799}
+{"altitude": 1654, "pressure": 82.50024978062785, "gps_altitude": 1649.501, "gps_variance": 4.499}
+{"altitude": 1655, "pressure": 82.7300320432389, "gps_altitude": 1652.201, "gps_variance": 2.799}
+{"altitude": 1656, "pressure": 82.44981532477249, "gps_altitude": 1656.701, "gps_variance": 0.701}
+{"altitude": 1657, "pressure": 82.61959962515093, "gps_altitude": 1653.901, "gps_variance": 3.099}
+{"altitude": 1658, "pressure": 82.9393849442965, "gps_altitude": 1657.801, "gps_variance": 0.199}
+{"altitude": 1659, "pressure": 82.80917128213142, "gps_altitude": 1657.801, "gps_variance": 1.199}
+{"altitude": 1660, "pressure": 83.05895863857799, "gps_altitude": 1660.601, "gps_variance": 0.601}
+{"altitude": 1661, "pressure": 82.41874701355854, "gps_altitude": 1663.501, "gps_variance": 2.501}
+{"altitude": 1662, "pressure": 83.0885364069953, "gps_altitude": 1658.301, "gps_variance": 3.6990000000000003}
+{"altitude": 1663, "pressure": 82.79832681881057, "gps_altitude": 1660.601, "gps_variance": 2.399}
+{"altitude": 1664, "pressure": 82.50811824892666, "gps_altitude": 1663.101, "gps_variance": 0.899}
+{"altitude": 1665, "pressure": 82.58791069726585, "gps_altitude": 1660.901, "gps_variance": 4.098999999999999}
+{"altitude": 1666, "pressure": 82.82770416375044, "gps_altitude": 1669.101, "gps_variance": 3.101}
+{"altitude": 1667, "pressure": 82.56749864830279, "gps_altitude": 1670.601, "gps_variance": 3.601}
+{"altitude": 1668, "pressure": 83.03729415084511, "gps_altitude": 1669.301, "gps_variance": 1.301}
+{"altitude": 1669, "pressure": 82.83709067129978, "gps_altitude": 1670.701, "gps_variance": 1.7009999999999998}
+{"altitude": 1670, "pressure": 82.49688820958914, "gps_altitude": 1670.401, "gps_variance": 0.401}
+{"altitude": 1671, "pressure": 82.82668676563546, "gps_altitude": 1675.701, "gps_variance": 4.7010000000000005}
+{"altitude": 1672, "pressure": 83.16648633936107, "gps_altitude": 1672.201, "gps_variance": 0.201}
+{"altitude": 1673, "pressure": 82.67628693068838, "gps_altitude": 1674.201, "gps_variance": 1.2009999999999998}
+{"altitude": 1674, "pressure": 82.6560885395396, "gps_altitude": 1670.301, "gps_variance": 3.6990000000000003}
+{"altitude": 1675, "pressure": 82.66589116583712, "gps_altitude": 1670.201, "gps_variance": 4.7989999999999995}
+{"altitude": 1676, "pressure": 83.09569480950337, "gps_altitude": 1680.501, "gps_variance": 4.501}
+{"altitude": 1677, "pressure": 82.42549947046057, "gps_altitude": 1678.301, "gps_variance": 1.301}
+{"altitude": 1678, "pressure": 82.4653051486311, "gps_altitude": 1674.701, "gps_variance": 3.299}
+{"altitude": 1679, "pressure": 82.8751118439374, "gps_altitude": 1676.801, "gps_variance": 2.1990000000000003}
+{"altitude": 1680, "pressure": 82.62491955630173, "gps_altitude": 1678.001, "gps_variance": 1.999}
+{"altitude": 1681, "pressure": 82.63472828564649, "gps_altitude": 1684.501, "gps_variance": 3.501}
+{"altitude": 1682, "pressure": 82.29453803189409, "gps_altitude": 1678.501, "gps_variance": 3.499}
+{"altitude": 1683, "pressure": 82.4843487949668, "gps_altitude": 1680.201, "gps_variance": 2.799}
+{"altitude": 1684, "pressure": 83.12416057478708, "gps_altitude": 1688.501, "gps_variance": 4.501}
+{"altitude": 1685, "pressure": 82.57397337127733, "gps_altitude": 1683.101, "gps_variance": 1.899}
+{"altitude": 1686, "pressure": 82.48378718435984, "gps_altitude": 1688.501, "gps_variance": 2.501}
+{"altitude": 1687, "pressure": 82.56360201395705, "gps_altitude": 1683.201, "gps_variance": 3.799}
+{"altitude": 1688, "pressure": 83.11341785999139, "gps_altitude": 1686.301, "gps_variance": 1.699}
+{"altitude": 1689, "pressure": 82.21323472238517, "gps_altitude": 1686.601, "gps_variance": 2.399}
+{"altitude": 1690, "pressure": 82.21305260106084, "gps_altitude": 1688.701, "gps_variance": 1.2990000000000002}
+{"altitude": 1691, "pressure": 82.11287149594087, "gps_altitude": 1694.501, "gps_variance": 3.501}
+{"altitude": 1692, "pressure": 82.22269140694753, "gps_altitude": 1691.201, "gps_variance": 0.799}
+{"altitude": 1693, "pressure": 82.47251233400333, "gps_altitude": 1688.601, "gps_variance": 4.399}
+{"altitude": 1694, "pressure": 82.72233427703067, "gps_altitude": 1696.801, "gps_variance": 2.8009999999999997}
+{"altitude": 1695, "pressure": 82.62215723595193, "gps_altitude": 1697.701, "gps_variance": 2.701}
+{"altitude": 1696, "pressure": 82.58198121068959, "gps_altitude": 1700.301, "gps_variance": 4.301}
+{"altitude": 1697, "pressure": 82.10180620116607, "gps_altitude": 1695.701, "gps_variance": 1.2990000000000002}
+{"altitude": 1698, "pressure": 82.97163220730377, "gps_altitude": 1699.601, "gps_variance": 1.601}
+{"altitude": 1699, "pressure": 82.85145922902514, "gps_altitude": 1701.901, "gps_variance": 2.901}
+{"altitude": 1700, "pressure": 82.28128726625268, "gps_altitude": 1700.801, "gps_variance": 0.801}
+{"altitude": 1701, "pressure": 82.23111631890872, "gps_altitude": 1696.701, "gps_variance": 4.2989999999999995}
+{"altitude": 1702, "pressure": 82.01094638691578, "gps_altitude": 1699.601, "gps_variance": 2.399}
+{"altitude": 1703, "pressure": 82.56077747019637, "gps_altitude": 1698.601, "gps_variance": 4.399}
+{"altitude": 1704, "pressure": 82.53060956867282, "gps_altitude": 1707.501, "gps_variance": 3.501}
+{"altitude": 1705, "pressure": 82.26044268226768, "gps_altitude": 1709.901, "gps_variance": 4.901000000000001}
+{"altitude": 1706, "pressure": 81.96027681090341, "gps_altitude": 1705.601, "gps_variance": 0.399}
+{"altitude": 1707, "pressure": 82.26011195450245, "gps_altitude": 1705.901, "gps_variance": 1.0990000000000002}
+{"altitude": 1708, "pressure": 82.10994811298727, "gps_altitude": 1703.401, "gps_variance": 4.598999999999999}
+{"altitude": 1709, "pressure": 82.24978528628043, "gps_altitude": 1704.501, "gps_variance": 4.499}
+{"altitude": 1710, "pressure": 82.2096234743043, "gps_altitude": 1710.301, "gps_variance": 0.301}
+{"altitude": 1711, "pressure": 82.7194626769814, "gps_altitude": 1711.701, "gps_variance": 0.701}
+{"altitude": 1712, "pressure": 82.83930289423428, "gps_altitude": 1715.001, "gps_variance": 3.001}
+{"altitude": 1713, "pressure": 82.65914412598536, "gps_altitude": 1717.401, "gps_variance": 4.401000000000001}
+{"altitude": 1714, "pressure": 82.43898637215717, "gps_altitude": 1717.701, "gps_variance": 3.701}
+{"altitude": 1715, "pressure": 82.2888296326722, "gps_altitude": 1719.701, "gps_variance": 4.7010000000000005}
+{"altitude": 1716, "pressure": 81.83867390745304, "gps_altitude": 1715.001, "gps_variance": 0.999}
+{"altitude": 1717, "pressure": 81.96851919642208, "gps_altitude": 1718.201, "gps_variance": 1.2009999999999998}
+{"altitude": 1718, "pressure": 81.9883654995019, "gps_altitude": 1717.901, "gps_variance": 0.099}
+{"altitude": 1719, "pressure": 82.34821281661505, "gps_altitude": 1723.601, "gps_variance": 4.601}
+{"altitude": 1720, "pressure": 82.57806114768394, "gps_altitude": 1721.201, "gps_variance": 1.2009999999999998}
+{"altitude": 1721, "pressure": 82.54791049263119, "gps_altitude": 1718.501, "gps_variance": 2.499}
+{"altitude": 1722, "pressure": 82.22776085137936, "gps_altitude": 1719.401, "gps_variance": 2.599}
+{"altitude": 1723, "pressure": 81.93761222385088, "gps_altitude": 1720.901, "gps_variance": 2.099}
+{"altitude": 1724, "pressure": 82.36746460996834, "gps_altitude": 1719.201, "gps_variance": 4.7989999999999995}
+{"altitude": 1725, "pressure": 81.88731800965435, "gps_altitude": 1729.501, "gps_variance": 4.501}
+{"altitude": 1726, "pressure": 81.81717242283135, "gps_altitude": 1722.801, "gps_variance": 3.1990000000000003}
+{"altitude": 1727, "pressure": 82.68702784942194, "gps_altitude": 1726.601, "gps_variance": 0.399}
+{"altitude": 1728, "pressure": 82.05688428934874, "gps_altitude": 1731.001, "gps_variance": 3.001}
+{"altitude": 1729, "pressure": 82.26674174253418, "gps_altitude": 1725.201, "gps_variance": 3.799}
+{"altitude": 1730, "pressure": 82.09660020890091, "gps_altitude": 1731.701, "gps_variance": 1.7009999999999998}
+{"altitude": 1731, "pressure": 82.14645968837151, "gps_altitude": 1735.201, "gps_variance": 4.2010000000000005}
+{"altitude": 1732, "pressure": 82.45632018086849, "gps_altitude": 1729.901, "gps_variance": 2.099}
+{"altitude": 1733, "pressure": 82.07618168631446, "gps_altitude": 1729.401, "gps_variance": 3.599}
+{"altitude": 1734, "pressure": 81.91604420463206, "gps_altitude": 1736.801, "gps_variance": 2.8009999999999997}
+{"altitude": 1735, "pressure": 81.95590773574375, "gps_altitude": 1737.401, "gps_variance": 2.401}
+{"altitude": 1736, "pressure": 82.54577227957218, "gps_altitude": 1733.601, "gps_variance": 2.399}
+{"altitude": 1737, "pressure": 82.07563783604003, "gps_altitude": 1740.501, "gps_variance": 3.501}
+{"altitude": 1738, "pressure": 82.44550440506974, "gps_altitude": 1742.801, "gps_variance": 4.801}
+{"altitude": 1739, "pressure": 81.995371986584, "gps_altitude": 1734.901, "gps_variance": 4.098999999999999}
+{"altitude": 1740, "pressure": 82.15524058050546, "gps_altitude": 1736.201, "gps_variance": 3.799}
+{"altitude": 1741, "pressure": 82.10511018675662, "gps_altitude": 1745.701, "gps_variance": 4.7010000000000005}
+{"altitude": 1742, "pressure": 82.16498080526014, "gps_altitude": 1742.901, "gps_variance": 0.901}
+{"altitude": 1743, "pressure": 81.7248524359387, "gps_altitude": 1745.301, "gps_variance": 2.3009999999999997}
+{"altitude": 1744, "pressure": 82.24472507871482, "gps_altitude": 1740.401, "gps_variance": 3.599}
+{"altitude": 1745, "pressure": 81.61459873351117, "gps_altitude": 1742.401, "gps_variance": 2.599}
+{"altitude": 1746, "pressure": 81.74447340025044, "gps_altitude": 1744.701, "gps_variance": 1.2990000000000002}
+{"altitude": 1747, "pressure": 82.39434907885519, "gps_altitude": 1751.601, "gps_variance": 4.601}
+{"altitude": 1748, "pressure": 82.41422576924803, "gps_altitude": 1743.601, "gps_variance": 4.399}
+{"altitude": 1749, "pressure": 81.81410347135171, "gps_altitude": 1750.101, "gps_variance": 1.101}
+{"altitude": 1750, "pressure": 82.28398218508877, "gps_altitude": 1746.401, "gps_variance": 3.599}
+{"altitude": 1751, "pressure": 82.3338619103819, "gps_altitude": 1753.601, "gps_variance": 2.601}
+{"altitude": 1752, "pressure": 82.35374264715382, "gps_altitude": 1752.701, "gps_variance": 0.701}
+{"altitude": 1753, "pressure": 82.15362439532709, "gps_altitude": 1753.401, "gps_variance": 0.401}
+{"altitude": 1754, "pressure": 81.71350715482441, "gps_altitude": 1757.101, "gps_variance": 3.101}
+{"altitude": 1755, "pressure": 82.00339092556848, "gps_altitude": 1754.901, "gps_variance": 0.099}
+{"altitude": 1756, "pressure": 81.6032757074819, "gps_altitude": 1759.801, "gps_variance": 3.8009999999999997}
+{"altitude": 1757, "pressure": 81.5031615004874, "gps_altitude": 1760.101, "gps_variance": 3.101}
+{"altitude": 1758, "pressure": 81.79304830450768, "gps_altitude": 1761.901, "gps_variance": 3.901}
+{"altitude": 1759, "pressure": 82.31293611946535, "gps_altitude": 1763.501, "gps_variance": 4.501}
+{"altitude": 1760, "pressure": 81.94282494528314, "gps_altitude": 1760.701, "gps_variance": 0.701}
+{"altitude": 1761, "pressure": 81.89271478188378, "gps_altitude": 1763.801, "gps_variance": 2.8009999999999997}
+{"altitude": 1762, "pressure": 81.39260562918989, "gps_altitude": 1764.401, "gps_variance": 2.401}
+{"altitude": 1763, "pressure": 82.12249748712419, "gps_altitude": 1764.101, "gps_variance": 1.101}
+{"altitude": 1764, "pressure": 82.21239035560944, "gps_altitude": 1761.501, "gps_variance": 2.499}
+{"altitude": 1765, "pressure": 81.60228423456827, "gps_altitude": 1765.801, "gps_variance": 0.801}
+{"altitude": 1766, "pressure": 82.32217912392342, "gps_altitude": 1766.501, "gps_variance": 0.501}
+{"altitude": 1767, "pressure": 81.93207502359769, "gps_altitude": 1766.101, "gps_variance": 0.899}
+{"altitude": 1768, "pressure": 81.42197193351366, "gps_altitude": 1763.101, "gps_variance": 4.899}
+{"altitude": 1769, "pressure": 82.13186985359411, "gps_altitude": 1768.401, "gps_variance": 0.599}
+{"altitude": 1770, "pressure": 82.23176878376184, "gps_altitude": 1766.201, "gps_variance": 3.799}
+{"altitude": 1771, "pressure": 82.06166872393948, "gps_altitude": 1771.401, "gps_variance": 0.401}
+{"altitude": 1772, "pressure": 81.36156967404979, "gps_altitude": 1770.801, "gps_variance": 1.199}
+{"altitude": 1773, "pressure": 81.47147163401557, "gps_altitude": 1776.601, "gps_variance": 3.601}
+{"altitude": 1774, "pressure": 81.71137460375948, "gps_altitude": 1769.301, "gps_variance": 4.699}
+{"altitude": 1775, "pressure": 81.82127858320433, "gps_altitude": 1778.101, "gps_variance": 3.101}
+{"altitude": 1776, "pressure": 81.2311835722729, "gps_altitude": 1777.301, "gps_variance": 1.301}
+{"altitude": 1777, "pressure": 81.40108957088785, "gps_altitude": 1781.101, "gps_variance": 4.101}
+{"altitude": 1778, "pressure": 81.62099657897197, "gps_altitude": 1779.001, "gps_variance": 1.001}
+{"altitude": 1779, "pressure": 81.94090459644808, "gps_altitude": 1776.901, "gps_variance": 2.099}
+{"altitude": 1780, "pressure": 82.18081362323896, "gps_altitude": 1779.601, "gps_variance": 0.399}
+{"altitude": 1781, "pressure": 81.67072365926728, "gps_altitude": 1784.001, "gps_variance": 3.001}
+{"altitude": 1782, "pressure": 81.2806347044559, "gps_altitude": 1786.601, "gps_variance": 4.601}
+{"altitude": 1783, "pressure": 81.45054675872763, "gps_altitude": 1778.201, "gps_variance": 4.7989999999999995}
+{"altitude": 1784, "pressure": 81.76045982200516, "gps_altitude": 1783.501, "gps_variance": 0.499}
+{"altitude": 1785, "pressure": 81.1603738942113, "gps_altitude": 1785.201, "gps_variance": 0.201}
+{"altitude": 1786, "pressure": 81.61028897526894, "gps_altitude": 1785.301, "gps_variance": 0.699}
+{"altitude": 1787, "pressure": 81.43020506510078, "gps_altitude": 1789.101, "gps_variance": 2.101}
+{"altitude": 1788, "pressure": 81.31012216362961, "gps_altitude": 1791.301, "gps_variance": 3.3009999999999997}
+{"altitude": 1789, "pressure": 81.21004027077836, "gps_altitude": 1787.201, "gps_variance": 1.7990000000000002}
+{"altitude": 1790, "pressure": 81.5999593864697, "gps_altitude": 1794.201, "gps_variance": 4.2010000000000005}
+{"altitude": 1791, "pressure": 81.42987951062649, "gps_altitude": 1791.001, "gps_variance": 0.001}
+{"altitude": 1792, "pressure": 81.71980064317164, "gps_altitude": 1796.001, "gps_variance": 4.001}
+{"altitude": 1793, "pressure": 81.77972278402783, "gps_altitude": 1797.801, "gps_variance": 4.801}
+{"altitude": 1794, "pressure": 81.10964593311795, "gps_altitude": 1789.101, "gps_variance": 4.899}
+{"altitude": 1795, "pressure": 81.31957009036488, "gps_altitude": 1792.601, "gps_variance": 2.399}
+{"altitude": 1796, "pressure": 81.68949525569136, "gps_altitude": 1797.501, "gps_variance": 1.501}
+{"altitude": 1797, "pressure": 81.75942142902026, "gps_altitude": 1797.601, "gps_variance": 0.601}
+{"altitude": 1798, "pressure": 81.96934861027451, "gps_altitude": 1800.501, "gps_variance": 2.501}
+{"altitude": 1799, "pressure": 81.83927679937683, "gps_altitude": 1796.801, "gps_variance": 2.1990000000000003}
+{"altitude": 1800, "pressure": 81.56920599625013, "gps_altitude": 1798.701, "gps_variance": 1.2990000000000002}
+{"altitude": 1801, "pressure": 81.70913620081733, "gps_altitude": 1799.701, "gps_variance": 1.2990000000000002}
+{"altitude": 1802, "pressure": 81.23906741300114, "gps_altitude": 1798.001, "gps_variance": 3.999}
+{"altitude": 1803, "pressure": 81.91899963272452, "gps_altitude": 1800.601, "gps_variance": 2.399}
+{"altitude": 1804, "pressure": 81.71893285991038, "gps_altitude": 1806.401, "gps_variance": 2.401}
+{"altitude": 1805, "pressure": 81.32886709448148, "gps_altitude": 1802.101, "gps_variance": 2.899}
+{"altitude": 1806, "pressure": 81.26880233636076, "gps_altitude": 1810.101, "gps_variance": 4.101}
+{"altitude": 1807, "pressure": 81.80873858547113, "gps_altitude": 1803.601, "gps_variance": 3.399}
+{"altitude": 1808, "pressure": 81.2986758417354, "gps_altitude": 1804.401, "gps_variance": 3.599}
+{"altitude": 1809, "pressure": 81.13861410507648, "gps_altitude": 1804.601, "gps_variance": 4.399}
+{"altitude": 1810, "pressure": 81.28855337541735, "gps_altitude": 1805.201, "gps_variance": 4.7989999999999995}
+{"altitude": 1811, "pressure": 80.87849365268076, "gps_altitude": 1808.201, "gps_variance": 2.799}
+{"altitude": 1812, "pressure": 81.54843493678969, "gps_altitude": 1814.301, "gps_variance": 2.3009999999999997}
+{"altitude": 1813, "pressure": 81.78837722766708, "gps_altitude": 1809.001, "gps_variance": 3.999}
+{"altitude": 1814, "pressure": 81.63832052523576, "gps_altitude": 1815.201, "gps_variance": 1.2009999999999998}
+{"altitude": 1815, "pressure": 81.06826482941867, "gps_altitude": 1812.801, "gps_variance": 2.1990000000000003}
+{"altitude": 1816, "pressure": 81.74821014013878, "gps_altitude": 1815.301, "gps_variance": 0.699}
+{"altitude": 1817, "pressure": 81.73815645731892, "gps_altitude": 1814.201, "gps_variance": 2.799}
+{"altitude": 1818, "pressure": 81.64810378088208, "gps_altitude": 1815.701, "gps_variance": 2.299}
+{"altitude": 1819, "pressure": 81.2380521107512, "gps_altitude": 1814.801, "gps_variance": 4.199}
+{"altitude": 1820, "pressure": 81.19800144684913, "gps_altitude": 1818.201, "gps_variance": 1.7990000000000002}
+{"altitude": 1821, "pressure": 81.71795178909888, "gps_altitude": 1821.301, "gps_variance": 0.301}
+{"altitude": 1822, "pressure": 81.58790313742341, "gps_altitude": 1823.401, "gps_variance": 1.4009999999999998}
+{"altitude": 1823, "pressure": 81.55785549174558, "gps_altitude": 1826.001, "gps_variance": 3.001}
+{"altitude": 1824, "pressure": 80.8978088519884, "gps_altitude": 1828.301, "gps_variance": 4.301}
+{"altitude": 1825, "pressure": 81.33776321807484, "gps_altitude": 1823.101, "gps_variance": 1.899}
+{"altitude": 1826, "pressure": 81.0177185899278, "gps_altitude": 1825.801, "gps_variance": 0.199}
+{"altitude": 1827, "pressure": 81.56767496747025, "gps_altitude": 1831.301, "gps_variance": 4.301}
+{"altitude": 1828, "pressure": 81.59763235062525, "gps_altitude": 1825.401, "gps_variance": 2.599}
+{"altitude": 1829, "pressure": 80.81759073931563, "gps_altitude": 1827.801, "gps_variance": 1.199}
+{"altitude": 1830, "pressure": 81.01755013346443, "gps_altitude": 1829.401, "gps_variance": 0.599}
+{"altitude": 1831, "pressure": 81.29751053299468, "gps_altitude": 1832.001, "gps_variance": 1.001}
+{"altitude": 1832, "pressure": 81.52747193782926, "gps_altitude": 1831.501, "gps_variance": 0.499}
+{"altitude": 1833, "pressure": 81.47743434789119, "gps_altitude": 1833.901, "gps_variance": 0.901}
+{"altitude": 1834, "pressure": 80.86739776310355, "gps_altitude": 1834.101, "gps_variance": 0.101}
+{"altitude": 1835, "pressure": 81.62736218338921, "gps_altitude": 1831.901, "gps_variance": 3.099}
+{"altitude": 1836, "pressure": 81.52732760867124, "gps_altitude": 1840.301, "gps_variance": 4.301}
+{"altitude": 1837, "pressure": 81.32729403887264, "gps_altitude": 1832.301, "gps_variance": 4.699}
+{"altitude": 1838, "pressure": 80.89726147391636, "gps_altitude": 1839.101, "gps_variance": 1.101}
+{"altitude": 1839, "pressure": 81.04722991372545, "gps_altitude": 1838.801, "gps_variance": 0.199}
+{"altitude": 1840, "pressure": 80.71719935822297, "gps_altitude": 1843.501, "gps_variance": 3.501}
+{"altitude": 1841, "pressure": 81.30716980733186, "gps_altitude": 1836.801, "gps_variance": 4.199}
+{"altitude": 1842, "pressure": 80.75714126097516, "gps_altitude": 1846.101, "gps_variance": 4.101}
+{"altitude": 1843, "pressure": 80.99711371907598, "gps_altitude": 1844.301, "gps_variance": 1.301}
+{"altitude": 1844, "pressure": 80.81708718155723, "gps_altitude": 1843.301, "gps_variance": 0.699}
+{"altitude": 1845, "pressure": 80.817061648342, "gps_altitude": 1845.601, "gps_variance": 0.601}
+{"altitude": 1846, "pressure": 81.33703711935338, "gps_altitude": 1843.301, "gps_variance": 2.6990000000000003}
+{"altitude": 1847, "pressure": 81.07701359451433, "gps_altitude": 1846.501, "gps_variance": 0.499}
+{"altitude": 1848, "pressure": 80.81699107374791, "gps_altitude": 1846.801, "gps_variance": 1.199}
+{"altitude": 1849, "pressure": 80.84696955697724, "gps_altitude": 1850.701, "gps_variance": 1.7009999999999998}
+{"altitude": 1850, "pressure": 80.77694904412532, "gps_altitude": 1851.801, "gps_variance": 1.801}
+{"altitude": 1851, "pressure": 81.17692953511518, "gps_altitude": 1852.201, "gps_variance": 1.2009999999999998}
+{"altitude": 1852, "pressure": 81.32691102986998, "gps_altitude": 1848.201, "gps_variance": 3.799}
+{"altitude": 1853, "pressure": 80.47689352831269, "gps_altitude": 1849.701, "gps_variance": 3.299}
+{"altitude": 1854, "pressure": 81.23687703036641, "gps_altitude": 1858.901, "gps_variance": 4.901000000000001}
+{"altitude": 1855, "pressure": 80.84686153595429, "gps_altitude": 1850.601, "gps_variance": 4.399}
+{"altitude": 1856, "pressure": 81.3168470449993, "gps_altitude": 1854.801, "gps_variance": 1.199}
+{"altitude": 1857, "pressure": 80.42683355742459, "gps_altitude": 1860.101, "gps_variance": 3.101}
+{"altitude": 1858, "pressure": 81.28682107315325, "gps_altitude": 1857.701, "gps_variance": 0.299}
+{"altitude": 1859, "pressure": 80.63680959210832, "gps_altitude": 1854.901, "gps_variance": 4.098999999999999}
+{"altitude": 1860, "pressure": 80.77679911421295, "gps_altitude": 1861.501, "gps_variance": 1.501}
+{"altitude": 1861, "pressure": 80.84678963939025, "gps_altitude": 1862.801, "gps_variance": 1.801}
+{"altitude": 1862, "pressure": 81.14678116756326, "gps_altitude": 1859.201, "gps_variance": 2.799}
+{"altitude": 1863, "pressure": 80.78677369865513, "gps_altitude": 1865.601, "gps_variance": 2.601}
+{"altitude": 1864, "pressure": 80.556767232589, "gps_altitude": 1868.001, "gps_variance": 4.001}
+{"altitude": 1865, "pressure": 80.34676176928791, "gps_altitude": 1866.301, "gps_variance": 1.301}
+{"altitude": 1866, "pressure": 80.63675730867504, "gps_altitude": 1867.601, "gps_variance": 1.601}
+{"altitude": 1867, "pressure": 80.31675385067354, "gps_altitude": 1868.201, "gps_variance": 1.2009999999999998}
+{"altitude": 1868, "pressure": 80.97675139520646, "gps_altitude": 1868.901, "gps_variance": 0.901}
+{"altitude": 1869, "pressure": 80.77674994219699, "gps_altitude": 1871.701, "gps_variance": 2.701}
+{"altitude": 1870, "pressure": 80.91674949156828, "gps_altitude": 1874.501, "gps_variance": 4.501}
+{"altitude": 1871, "pressure": 80.51675004324339, "gps_altitude": 1866.001, "gps_variance": 4.999}
+{"altitude": 1872, "pressure": 80.54675159714554, "gps_altitude": 1872.901, "gps_variance": 0.901}
+{"altitude": 1873, "pressure": 80.35675415319785, "gps_altitude": 1877.201, "gps_variance": 4.2010000000000005}
+{"altitude": 1874, "pressure": 80.31675771132353, "gps_altitude": 1877.501, "gps_variance": 3.501}
+{"altitude": 1875, "pressure": 80.98676227144566, "gps_altitude": 1877.701, "gps_variance": 2.701}
+{"altitude": 1876, "pressure": 80.59676783348743, "gps_altitude": 1874.901, "gps_variance": 1.0990000000000002}
+{"altitude": 1877, "pressure": 80.28677439737204, "gps_altitude": 1877.001, "gps_variance": 0.001}
+{"altitude": 1878, "pressure": 80.7567819630226, "gps_altitude": 1881.701, "gps_variance": 3.701}
+{"altitude": 1879, "pressure": 80.4067905303623, "gps_altitude": 1882.301, "gps_variance": 3.3009999999999997}
+{"altitude": 1880, "pressure": 80.6968000993144, "gps_altitude": 1883.101, "gps_variance": 3.101}
+{"altitude": 1881, "pressure": 81.03681066980195, "gps_altitude": 1881.501, "gps_variance": 0.501}
+{"altitude": 1882, "pressure": 80.57682224174819, "gps_altitude": 1880.401, "gps_variance": 1.5990000000000002}
+{"altitude": 1883, "pressure": 80.5568348150764, "gps_altitude": 1887.601, "gps_variance": 4.601}
+{"altitude": 1884, "pressure": 80.18684838970964, "gps_altitude": 1882.901, "gps_variance": 1.0990000000000002}
+{"altitude": 1885, "pressure": 80.51686296557114, "gps_altitude": 1884.401, "gps_variance": 0.599}
+{"altitude": 1886, "pressure": 81.1068785425842, "gps_altitude": 1881.701, "gps_variance": 4.2989999999999995}
+{"altitude": 1887, "pressure": 80.9168951206719, "gps_altitude": 1885.001, "gps_variance": 1.999}
+{"altitude": 1888, "pressure": 80.5469126997575, "gps_altitude": 1889.601, "gps_variance": 1.601}
+{"altitude": 1889, "pressure": 80.83693127976427, "gps_altitude": 1889.701, "gps_variance": 0.701}
+{"altitude": 1890, "pressure": 81.06695086061535, "gps_altitude": 1885.201, "gps_variance": 4.7989999999999995}
+{"altitude": 1891, "pressure": 80.11697144223399, "gps_altitude": 1895.701, "gps_variance": 4.7010000000000005}
+{"altitude": 1892, "pressure": 80.66699302454344, "gps_altitude": 1888.101, "gps_variance": 3.899}
+{"altitude": 1893, "pressure": 80.35701560746688, "gps_altitude": 1889.201, "gps_variance": 3.799}
+{"altitude": 1894, "pressure": 80.14703919092759, "gps_altitude": 1891.501, "gps_variance": 2.499}
+{"altitude": 1895, "pressure": 80.51706377484884, "gps_altitude": 1896.801, "gps_variance": 1.801}
+{"altitude": 1896, "pressure": 80.66708935915378, "gps_altitude": 1891.101, "gps_variance": 4.899}
+{"altitude": 1897, "pressure": 80.11711594376568, "gps_altitude": 1899.001, "gps_variance": 2.001}
+{"altitude": 1898, "pressure": 80.4671435286079, "gps_altitude": 1900.501, "gps_variance": 2.501}
+{"altitude": 1899, "pressure": 80.41717211360356, "gps_altitude": 1901.301, "gps_variance": 2.3009999999999997}
+{"altitude": 1900, "pressure": 80.93720169867598, "gps_altitude": 1900.301, "gps_variance": 0.301}
+{"altitude": 1901, "pressure": 80.62723228374847, "gps_altitude": 1898.801, "gps_variance": 2.1990000000000003}
+{"altitude": 1902, "pressure": 80.87726386874418, "gps_altitude": 1900.601, "gps_variance": 1.399}
+{"altitude": 1903, "pressure": 80.37729645358647, "gps_altitude": 1903.501, "gps_variance": 0.501}
+{"altitude": 1904, "pressure": 80.05733003819864, "gps_altitude": 1905.601, "gps_variance": 1.601}
+{"altitude": 1905, "pressure": 80.19736462250387, "gps_altitude": 1908.501, "gps_variance": 3.501}
+{"altitude": 1906, "pressure": 79.96740020642551, "gps_altitude": 1904.601, "gps_variance": 1.399}
+{"altitude": 1907, "pressure": 80.07743678988687, "gps_altitude": 1907.301, "gps_variance": 0.301}
+{"altitude": 1908, "pressure": 80.42747437281118, "gps_altitude": 1907.301, "gps_variance": 0.699}
+{"altitude": 1909, "pressure": 80.11751295512177, "gps_altitude": 1904.001, "gps_variance": 4.999}
+{"altitude": 1910, "pressure": 80.23755253674199, "gps_altitude": 1911.401, "gps_variance": 1.4009999999999998}
+{"altitude": 1911, "pressure": 79.94759311759503, "gps_altitude": 1914.301, "gps_variance": 3.3009999999999997}
+{"altitude": 1912, "pressure": 80.59763469760429, "gps_altitude": 1909.901, "gps_variance": 2.099}
+{"altitude": 1913, "pressure": 80.66767727669307, "gps_altitude": 1915.501, "gps_variance": 2.501}
+{"altitude": 1914, "pressure": 80.73772085478464, "gps_altitude": 1911.001, "gps_variance": 2.999}
+{"altitude": 1915, "pressure": 79.97776543180235, "gps_altitude": 1919.801, "gps_variance": 4.801}
+{"altitude": 1916, "pressure": 80.7278110076696, "gps_altitude": 1919.901, "gps_variance": 3.901}
+{"altitude": 1917, "pressure": 80.26785758230957, "gps_altitude": 1916.601, "gps_variance": 0.399}
+{"altitude": 1918, "pressure": 80.46790515564568, "gps_altitude": 1920.401, "gps_variance": 2.401}
+{"altitude": 1919, "pressure": 80.62795372760132, "gps_altitude": 1921.101, "gps_variance": 2.101}
+{"altitude": 1920, "pressure": 80.51800329809971, "gps_altitude": 1918.001, "gps_variance": 1.999}
+{"altitude": 1921, "pressure": 80.13805386706426, "gps_altitude": 1918.901, "gps_variance": 2.099}
+{"altitude": 1922, "pressure": 80.67810543441836, "gps_altitude": 1919.701, "gps_variance": 2.299}
+{"altitude": 1923, "pressure": 80.25815800008527, "gps_altitude": 1924.701, "gps_variance": 1.7009999999999998}
+{"altitude": 1924, "pressure": 80.3282115639884, "gps_altitude": 1923.501, "gps_variance": 0.499}
+{"altitude": 1925, "pressure": 80.03826612605117, "gps_altitude": 1926.501, "gps_variance": 1.501}
+{"altitude": 1926, "pressure": 80.57832168619682, "gps_altitude": 1930.301, "gps_variance": 4.301}
+{"altitude": 1927, "pressure": 80.5083782443488, "gps_altitude": 1925.901, "gps_variance": 1.0990000000000002}
+{"altitude": 1928, "pressure": 80.6984358004305, "gps_altitude": 1926.801, "gps_variance": 1.199}
+{"altitude": 1929, "pressure": 80.03849435436524, "gps_altitude": 1929.501, "gps_variance": 0.501}
+{"altitude": 1930, "pressure": 80.05855390607643, "gps_altitude": 1930.001, "gps_variance": 0.001}
+{"altitude": 1931, "pressure": 80.61861445548747, "gps_altitude": 1926.601, "gps_variance": 4.399}
+{"altitude": 1932, "pressure": 80.57867600252172, "gps_altitude": 1935.001, "gps_variance": 3.001}
+{"altitude": 1933, "pressure": 80.57873854710259, "gps_altitude": 1934.201, "gps_variance": 1.2009999999999998}
+{"altitude": 1934, "pressure": 79.70880208915352, "gps_altitude": 1938.901, "gps_variance": 4.901000000000001}
+{"altitude": 1935, "pressure": 79.76886662859782, "gps_altitude": 1934.601, "gps_variance": 0.399}
+{"altitude": 1936, "pressure": 80.03893216535896, "gps_altitude": 1940.301, "gps_variance": 4.301}
+{"altitude": 1937, "pressure": 80.47899869936033, "gps_altitude": 1937.901, "gps_variance": 0.901}
+{"altitude": 1938, "pressure": 79.61906623052542, "gps_altitude": 1941.301, "gps_variance": 3.3009999999999997}
+{"altitude": 1939, "pressure": 79.9491347587775, "gps_altitude": 1941.801, "gps_variance": 2.8009999999999997}
+{"altitude": 1940, "pressure": 79.8092042840401, "gps_altitude": 1937.601, "gps_variance": 2.399}
+{"altitude": 1941, "pressure": 80.29927480623668, "gps_altitude": 1941.801, "gps_variance": 0.801}
+{"altitude": 1942, "pressure": 80.37934632529056, "gps_altitude": 1938.901, "gps_variance": 3.099}
+{"altitude": 1943, "pressure": 80.05941884112524, "gps_altitude": 1939.501, "gps_variance": 3.499}
+{"altitude": 1944, "pressure": 80.28949235366416, "gps_altitude": 1941.201, "gps_variance": 2.799}
+{"altitude": 1945, "pressure": 79.67956686283075, "gps_altitude": 1940.001, "gps_variance": 4.999}
+{"altitude": 1946, "pressure": 79.78964236854844, "gps_altitude": 1941.401, "gps_variance": 4.598999999999999}
+{"altitude": 1947, "pressure": 79.86971887074074, "gps_altitude": 1950.201, "gps_variance": 3.201}
+{"altitude": 1948, "pressure": 79.59979636933105, "gps_altitude": 1943.801, "gps_variance": 4.199}
+{"altitude": 1949, "pressure": 80.23987486424281, "gps_altitude": 1952.801, "gps_variance": 3.8009999999999997}
+{"altitude": 1950, "pressure": 80.45995435539959, "gps_altitude": 1946.501, "gps_variance": 3.499}
+{"altitude": 1951, "pressure": 80.36003484272473, "gps_altitude": 1955.001, "gps_variance": 4.001}
+{"altitude": 1952, "pressure": 80.11011632614179, "gps_altitude": 1948.901, "gps_variance": 3.099}
+{"altitude": 1953, "pressure": 79.61019880557424, "gps_altitude": 1953.201, "gps_variance": 0.201}
+{"altitude": 1954, "pressure": 80.01028228094549, "gps_altitude": 1954.401, "gps_variance": 0.401}
+{"altitude": 1955, "pressure": 80.24036675217907, "gps_altitude": 1950.101, "gps_variance": 4.899}
+{"altitude": 1956, "pressure": 80.09045221919853, "gps_altitude": 1960.601, "gps_variance": 4.601}
+{"altitude": 1957, "pressure": 80.06053868192724, "gps_altitude": 1953.101, "gps_variance": 3.899}
+{"altitude": 1958, "pressure": 79.72062614028876, "gps_altitude": 1961.701, "gps_variance": 3.701}
+{"altitude": 1959, "pressure": 79.67071459420664, "gps_altitude": 1957.401, "gps_variance": 1.5990000000000002}
+{"altitude": 1960, "pressure": 79.74080404360427, "gps_altitude": 1960.601, "gps_variance": 0.601}
+{"altitude": 1961, "pressure": 79.50089448840525, "gps_altitude": 1964.301, "gps_variance": 3.3009999999999997}
+{"altitude": 1962, "pressure": 80.1209859285331, "gps_altitude": 1958.001, "gps_variance": 3.999}
+{"altitude": 1963, "pressure": 79.70107836391125, "gps_altitude": 1965.701, "gps_variance": 2.701}
+{"altitude": 1964, "pressure": 79.90117179446327, "gps_altitude": 1965.401, "gps_variance": 1.4009999999999998}
+{"altitude": 1965, "pressure": 80.06126622011273, "gps_altitude": 1960.701, "gps_variance": 4.2989999999999995}
+{"altitude": 1966, "pressure": 79.38136164078307, "gps_altitude": 1967.901, "gps_variance": 1.9009999999999998}
+{"altitude": 1967, "pressure": 80.02145805639788, "gps_altitude": 1967.101, "gps_variance": 0.101}
+{"altitude": 1968, "pressure": 79.74155546688071, "gps_altitude": 1967.001, "gps_variance": 0.999}
+{"altitude": 1969, "pressure": 79.53165387215505, "gps_altitude": 1971.101, "gps_variance": 2.101}
+{"altitude": 1970, "pressure": 80.11175327214445, "gps_altitude": 1966.001, "gps_variance": 3.999}
+{"altitude": 1971, "pressure": 79.62185366677255, "gps_altitude": 1966.501, "gps_variance": 4.499}
+{"altitude": 1972, "pressure": 79.98195505596279, "gps_altitude": 1970.301, "gps_variance": 1.699}
+{"altitude": 1973, "pressure": 80.04205743963875, "gps_altitude": 1977.401, "gps_variance": 4.401000000000001}
+{"altitude": 1974, "pressure": 79.65216081772408, "gps_altitude": 1978.201, "gps_variance": 4.2010000000000005}
+{"altitude": 1975, "pressure": 79.87226519014222, "gps_altitude": 1978.701, "gps_variance": 3.701}
+{"altitude": 1976, "pressure": 79.27237055681681, "gps_altitude": 1978.601, "gps_variance": 2.601}
+{"altitude": 1977, "pressure": 80.03247691767145, "gps_altitude": 1979.101, "gps_variance": 2.101}
+{"altitude": 1978, "pressure": 79.82258427262963, "gps_altitude": 1981.401, "gps_variance": 3.401}
+{"altitude": 1979, "pressure": 79.94269262161498, "gps_altitude": 1978.901, "gps_variance": 0.099}
+{"altitude": 1980, "pressure": 79.33280196455115, "gps_altitude": 1984.201, "gps_variance": 4.2010000000000005}
+{"altitude": 1981, "pressure": 79.4029123013616, "gps_altitude": 1982.301, "gps_variance": 1.301}
+{"altitude": 1982, "pressure": 79.50302363197001, "gps_altitude": 1982.701, "gps_variance": 0.701}
+{"altitude": 1983, "pressure": 79.1831359563, "gps_altitude": 1979.501, "gps_variance": 3.499}
+{"altitude": 1984, "pressure": 79.73324927427508, "gps_altitude": 1985.501, "gps_variance": 1.501}
+{"altitude": 1985, "pressure": 79.97336358581892, "gps_altitude": 1980.901, "gps_variance": 4.098999999999999}
+{"altitude": 1986, "pressure": 79.87347889085515, "gps_altitude": 1984.101, "gps_variance": 1.899}
+{"altitude": 1987, "pressure": 79.89359518930732, "gps_altitude": 1987.201, "gps_variance": 0.201}
+{"altitude": 1988, "pressure": 79.54371248109909, "gps_altitude": 1986.201, "gps_variance": 1.7990000000000002}
+{"altitude": 1989, "pressure": 79.9838307661541, "gps_altitude": 1993.701, "gps_variance": 4.7010000000000005}
+{"altitude": 1990, "pressure": 79.34395004439591, "gps_altitude": 1990.601, "gps_variance": 0.601}
+{"altitude": 1991, "pressure": 80.0740703157482, "gps_altitude": 1991.501, "gps_variance": 0.501}
+{"altitude": 1992, "pressure": 79.87419158013464, "gps_altitude": 1988.401, "gps_variance": 3.599}
+{"altitude": 1993, "pressure": 79.82431383747878, "gps_altitude": 1992.901, "gps_variance": 0.099}
+{"altitude": 1994, "pressure": 79.1044370877043, "gps_altitude": 1991.701, "gps_variance": 2.299}
+{"altitude": 1995, "pressure": 79.93456133073491, "gps_altitude": 1995.401, "gps_variance": 0.401}
+{"altitude": 1996, "pressure": 79.61468656649416, "gps_altitude": 1991.401, "gps_variance": 4.598999999999999}
+{"altitude": 1997, "pressure": 79.02481279490574, "gps_altitude": 2000.001, "gps_variance": 3.001}
+{"altitude": 1998, "pressure": 79.93494001589337, "gps_altitude": 2001.501, "gps_variance": 3.501}
+{"altitude": 1999, "pressure": 79.95506822938063, "gps_altitude": 2002.801, "gps_variance": 3.8009999999999997}
+{"altitude": 2000, "pressure": 79.0451974352912, "gps_altitude": 1996.901, "gps_variance": 3.099}
+{"altitude": 2001, "pressure": 79.19532763354881, "gps_altitude": 1998.601, "gps_variance": 2.399}
+{"altitude": 2002, "pressure": 79.7054588240771, "gps_altitude": 2002.001, "gps_variance": 0.001}
+{"altitude": 2003, "pressure": 79.29559100679971, "gps_altitude": 2002.801, "gps_variance": 0.199}
+{"altitude": 2004, "pressure": 79.46572418164043, "gps_altitude": 2001.501, "gps_variance": 2.499}
+{"altitude": 2005, "pressure": 79.9058583485228, "gps_altitude": 2007.701, "gps_variance": 2.701}
+{"altitude": 2006, "pressure": 79.1459935073706, "gps_altitude": 2005.301, "gps_variance": 0.699}
+{"altitude": 2007, "pressure": 79.01612965810759, "gps_altitude": 2002.501, "gps_variance": 4.499}
+{"altitude": 2008, "pressure": 79.53626680065733, "gps_altitude": 2012.001, "gps_variance": 4.001}
+{"altitude": 2009, "pressure": 79.76640493494358, "gps_altitude": 2011.201, "gps_variance": 2.201}
+{"altitude": 2010, "pressure": 78.99654406089012, "gps_altitude": 2013.301, "gps_variance": 3.3009999999999997}
+{"altitude": 2011, "pressure": 79.52668417842054, "gps_altitude": 2008.101, "gps_variance": 2.899}
+{"altitude": 2012, "pressure": 79.51682528745862, "gps_altitude": 2011.501, "gps_variance": 0.499}
+{"altitude": 2013, "pressure": 79.36696738792813, "gps_altitude": 2012.801, "gps_variance": 0.199}
+{"altitude": 2014, "pressure": 79.14711047975268, "gps_altitude": 2010.501, "gps_variance": 3.499}
+{"altitude": 2015, "pressure": 79.49725456285607, "gps_altitude": 2013.701, "gps_variance": 1.2990000000000002}
+{"altitude": 2016, "pressure": 79.69739963716206, "gps_altitude": 2013.301, "gps_variance": 2.6990000000000003}
+{"altitude": 2017, "pressure": 79.35754570259431, "gps_altitude": 2017.701, "gps_variance": 0.701}
+{"altitude": 2018, "pressure": 79.44769275907659, "gps_altitude": 2018.501, "gps_variance": 0.501}
+{"altitude": 2019, "pressure": 79.64784080653271, "gps_altitude": 2021.701, "gps_variance": 2.701}
+{"altitude": 2020, "pressure": 79.62798984488629, "gps_altitude": 2021.401, "gps_variance": 1.4009999999999998}
+{"altitude": 2021, "pressure": 79.14813987406117, "gps_altitude": 2022.201, "gps_variance": 1.2009999999999998}
+{"altitude": 2022, "pressure": 79.45829089398116, "gps_altitude": 2020.801, "gps_variance": 1.199}
+{"altitude": 2023, "pressure": 79.56844290456986, "gps_altitude": 2026.901, "gps_variance": 3.901}
+{"altitude": 2024, "pressure": 79.18859590575116, "gps_altitude": 2024.401, "gps_variance": 0.401}
+{"altitude": 2025, "pressure": 79.53874989744882, "gps_altitude": 2026.901, "gps_variance": 1.9009999999999998}
+{"altitude": 2026, "pressure": 79.02890487958656, "gps_altitude": 2024.801, "gps_variance": 1.199}
+{"altitude": 2027, "pressure": 79.24906085208816, "gps_altitude": 2031.401, "gps_variance": 4.401000000000001}
+{"altitude": 2028, "pressure": 79.26921781487749, "gps_altitude": 2025.401, "gps_variance": 2.599}
+{"altitude": 2029, "pressure": 79.17937576787823, "gps_altitude": 2024.701, "gps_variance": 4.2989999999999995}
+{"altitude": 2030, "pressure": 79.60953471101419, "gps_altitude": 2034.601, "gps_variance": 4.601}
+{"altitude": 2031, "pressure": 79.37969464420921, "gps_altitude": 2034.901, "gps_variance": 3.901}
+{"altitude": 2032, "pressure": 78.9798555673871, "gps_altitude": 2032.601, "gps_variance": 0.601}
+{"altitude": 2033, "pressure": 79.15001748047158, "gps_altitude": 2032.901, "gps_variance": 0.099}
+{"altitude": 2034, "pressure": 78.82018038338649, "gps_altitude": 2031.401, "gps_variance": 2.599}
+{"altitude": 2035, "pressure": 79.23034427605569, "gps_altitude": 2038.201, "gps_variance": 3.201}
+{"altitude": 2036, "pressure": 79.60050915840291, "gps_altitude": 2039.801, "gps_variance": 3.8009999999999997}
+{"altitude": 2037, "pressure": 79.21067503035202, "gps_altitude": 2039.101, "gps_variance": 2.101}
+{"altitude": 2038, "pressure": 79.48084189182687, "gps_altitude": 2041.501, "gps_variance": 3.501}
+{"altitude": 2039, "pressure": 79.0810097427512, "gps_altitude": 2038.001, "gps_variance": 0.999}
+{"altitude": 2040, "pressure": 78.8311785830489, "gps_altitude": 2043.801, "gps_variance": 3.8009999999999997}
+{"altitude": 2041, "pressure": 79.37134841264383, "gps_altitude": 2036.001, "gps_variance": 4.999}
+{"altitude": 2042, "pressure": 79.41151923145974, "gps_altitude": 2045.801, "gps_variance": 3.8009999999999997}
+{"altitude": 2043, "pressure": 78.74169103942052, "gps_altitude": 2047.101, "gps_variance": 4.101}
+{"altitude": 2044, "pressure": 79.19186383645005, "gps_altitude": 2047.801, "gps_variance": 3.8009999999999997}
+{"altitude": 2045, "pressure": 78.82203762247212, "gps_altitude": 2040.201, "gps_variance": 4.7989999999999995}
+{"altitude": 2046, "pressure": 79.0322123974106, "gps_altitude": 2049.501, "gps_variance": 3.501}
+{"altitude": 2047, "pressure": 78.71238816118944, "gps_altitude": 2049.501, "gps_variance": 2.501}
+{"altitude": 2048, "pressure": 78.52256491373235, "gps_altitude": 2051.401, "gps_variance": 3.401}
+{"altitude": 2049, "pressure": 79.10274265496328, "gps_altitude": 2047.001, "gps_variance": 1.999}
+{"altitude": 2050, "pressure": 78.50292138480611, "gps_altitude": 2054.901, "gps_variance": 4.901000000000001}
+{"altitude": 2051, "pressure": 79.35310110318467, "gps_altitude": 2047.901, "gps_variance": 3.099}
+{"altitude": 2052, "pressure": 78.96328181002286, "gps_altitude": 2047.301, "gps_variance": 4.699}
+{"altitude": 2053, "pressure": 78.72346350524461, "gps_altitude": 2054.201, "gps_variance": 1.2009999999999998}
+{"altitude": 2054, "pressure": 79.02364618877371, "gps_altitude": 2057.101, "gps_variance": 3.101}
+{"altitude": 2055, "pressure": 78.90382986053413, "gps_altitude": 2051.401, "gps_variance": 3.599}
+{"altitude": 2056, "pressure": 79.28401452044976, "gps_altitude": 2056.701, "gps_variance": 0.701}
+{"altitude": 2057, "pressure": 79.19420016844444, "gps_altitude": 2060.901, "gps_variance": 3.901}
+{"altitude": 2058, "pressure": 79.23438680444211, "gps_altitude": 2061.101, "gps_variance": 3.101}
+{"altitude": 2059, "pressure": 78.69457442836672, "gps_altitude": 2059.801, "gps_variance": 0.801}
+{"altitude": 2060, "pressure": 79.07476304014209, "gps_altitude": 2062.801, "gps_variance": 2.8009999999999997}
+{"altitude": 2061, "pressure": 78.5949526396922, "gps_altitude": 2060.601, "gps_variance": 0.399}
+{"altitude": 2062, "pressure": 78.80514322694097, "gps_altitude": 2061.201, "gps_variance": 0.799}
+{"altitude": 2063, "pressure": 78.71533480181229, "gps_altitude": 2063.301, "gps_variance": 0.301}
+{"altitude": 2064, "pressure": 79.02552736423007, "gps_altitude": 2065.901, "gps_variance": 1.9009999999999998}
+{"altitude": 2065, "pressure": 78.87572091411835, "gps_altitude": 2063.901, "gps_variance": 1.0990000000000002}
+{"altitude": 2066, "pressure": 79.17591545140094, "gps_altitude": 2061.501, "gps_variance": 4.499}
+{"altitude": 2067, "pressure": 78.90611097600183, "gps_altitude": 2069.801, "gps_variance": 2.8009999999999997}
+{"altitude": 2068, "pressure": 78.36630748784502, "gps_altitude": 2070.601, "gps_variance": 2.601}
+{"altitude": 2069, "pressure": 79.02650498685433, "gps_altitude": 2064.101, "gps_variance": 4.899}
+{"altitude": 2070, "pressure": 78.8267034729538, "gps_altitude": 2072.801, "gps_variance": 2.8009999999999997}
+{"altitude": 2071, "pressure": 78.48690294606742, "gps_altitude": 2069.901, "gps_variance": 1.0990000000000002}
+{"altitude": 2072, "pressure": 79.18710340611905, "gps_altitude": 2074.301, "gps_variance": 2.3009999999999997}
+{"altitude": 2073, "pressure": 78.66730485303269, "gps_altitude": 2070.301, "gps_variance": 2.6990000000000003}
+{"altitude": 2074, "pressure": 79.23750728673238, "gps_altitude": 2070.901, "gps_variance": 3.099}
+{"altitude": 2075, "pressure": 78.41771070714198, "gps_altitude": 2079.901, "gps_variance": 4.901000000000001}
+{"altitude": 2076, "pressure": 78.98791511418553, "gps_altitude": 2078.501, "gps_variance": 2.501}
+{"altitude": 2077, "pressure": 78.94812050778702, "gps_altitude": 2078.701, "gps_variance": 1.7009999999999998}
+{"altitude": 2078, "pressure": 79.2183268878704, "gps_altitude": 2076.201, "gps_variance": 1.7990000000000002}
+{"altitude": 2079, "pressure": 78.43853425435967, "gps_altitude": 2081.701, "gps_variance": 2.701}
+{"altitude": 2080, "pressure": 78.34874260717885, "gps_altitude": 2084.201, "gps_variance": 4.2010000000000005}
+{"altitude": 2081, "pressure": 78.70895194625187, "gps_altitude": 2077.301, "gps_variance": 3.6990000000000003}
+{"altitude": 2082, "pressure": 78.66916227150278, "gps_altitude": 2078.701, "gps_variance": 3.299}
+{"altitude": 2083, "pressure": 79.03937358285562, "gps_altitude": 2080.801, "gps_variance": 2.1990000000000003}
+{"altitude": 2084, "pressure": 78.26958588023429, "gps_altitude": 2079.701, "gps_variance": 4.2989999999999995}
+{"altitude": 2085, "pressure": 78.92979916356288, "gps_altitude": 2085.901, "gps_variance": 0.901}
+{"altitude": 2086, "pressure": 79.07001343276545, "gps_altitude": 2085.801, "gps_variance": 0.199}
+{"altitude": 2087, "pressure": 78.62022868776592, "gps_altitude": 2091.601, "gps_variance": 4.601}
+{"altitude": 2088, "pressure": 78.33044492848833, "gps_altitude": 2088.101, "gps_variance": 0.101}
+{"altitude": 2089, "pressure": 78.72066215485681, "gps_altitude": 2086.701, "gps_variance": 2.299}
+{"altitude": 2090, "pressure": 78.53088036679527, "gps_altitude": 2094.201, "gps_variance": 4.2010000000000005}
+{"altitude": 2091, "pressure": 78.8510995642278, "gps_altitude": 2092.801, "gps_variance": 1.801}
+{"altitude": 2092, "pressure": 78.63131974707848, "gps_altitude": 2089.401, "gps_variance": 2.599}
+{"altitude": 2093, "pressure": 79.07154091527126, "gps_altitude": 2091.101, "gps_variance": 1.899}
+{"altitude": 2094, "pressure": 78.88176306873027, "gps_altitude": 2097.001, "gps_variance": 3.001}
+{"altitude": 2095, "pressure": 78.71198620737955, "gps_altitude": 2091.001, "gps_variance": 3.999}
+{"altitude": 2096, "pressure": 78.61221033114312, "gps_altitude": 2095.401, "gps_variance": 0.599}
+{"altitude": 2097, "pressure": 78.67243543994505, "gps_altitude": 2095.201, "gps_variance": 1.7990000000000002}
+{"altitude": 2098, "pressure": 78.41266153370943, "gps_altitude": 2098.301, "gps_variance": 0.301}
+{"altitude": 2099, "pressure": 78.46288861236035, "gps_altitude": 2096.801, "gps_variance": 2.1990000000000003}
+{"altitude": 2100, "pressure": 78.17311667582182, "gps_altitude": 2103.901, "gps_variance": 3.901}
+{"altitude": 2101, "pressure": 78.65334572401797, "gps_altitude": 2096.501, "gps_variance": 4.499}
+{"altitude": 2102, "pressure": 78.47357575687288, "gps_altitude": 2105.901, "gps_variance": 3.901}
+{"altitude": 2103, "pressure": 78.79380677431057, "gps_altitude": 2098.701, "gps_variance": 4.2989999999999995}
+{"altitude": 2104, "pressure": 78.45403877625519, "gps_altitude": 2107.801, "gps_variance": 3.8009999999999997}
+{"altitude": 2105, "pressure": 78.11427176263086, "gps_altitude": 2101.101, "gps_variance": 3.899}
+{"altitude": 2106, "pressure": 78.0045057333616, "gps_altitude": 2104.301, "gps_variance": 1.699}
+{"altitude": 2107, "pressure": 78.55474068837154, "gps_altitude": 2105.301, "gps_variance": 1.699}
+{"altitude": 2108, "pressure": 78.57497662758486, "gps_altitude": 2107.201, "gps_variance": 0.799}
+{"altitude": 2109, "pressure": 78.09521355092556, "gps_altitude": 2108.201, "gps_variance": 0.799}
+{"altitude": 2110, "pressure": 78.21545145831779, "gps_altitude": 2111.401, "gps_variance": 1.4009999999999998}
+{"altitude": 2111, "pressure": 78.85569034968572, "gps_altitude": 2112.001, "gps_variance": 1.001}
+{"altitude": 2112, "pressure": 78.2859302249534, "gps_altitude": 2107.401, "gps_variance": 4.598999999999999}
+{"altitude": 2113, "pressure": 78.18617108404497, "gps_altitude": 2109.501, "gps_variance": 3.499}
+{"altitude": 2114, "pressure": 78.09641292688465, "gps_altitude": 2110.901, "gps_variance": 3.099}
+{"altitude": 2115, "pressure": 78.64665575339644, "gps_altitude": 2117.901, "gps_variance": 2.901}
+{"altitude": 2116, "pressure": 78.05689956350454, "gps_altitude": 2117.001, "gps_variance": 1.001}
+{"altitude": 2117, "pressure": 78.78714435713313, "gps_altitude": 2114.101, "gps_variance": 2.899}
+{"altitude": 2118, "pressure": 78.15739013420628, "gps_altitude": 2122.501, "gps_variance": 4.501}
+{"altitude": 2119, "pressure": 78.05763689464818, "gps_altitude": 2116.701, "gps_variance": 2.299}
+{"altitude": 2120, "pressure": 78.41788463838304, "gps_altitude": 2117.801, "gps_variance": 2.1990000000000003}
+{"altitude": 2121, "pressure": 78.0481333653349, "gps_altitude": 2122.601, "gps_variance": 1.601}
+{"altitude": 2122, "pressure": 78.188383075428, "gps_altitude": 2125.101, "gps_variance": 3.101}
+{"altitude": 2123, "pressure": 78.57863376858656, "gps_altitude": 2127.301, "gps_variance": 4.301}
+{"altitude": 2124, "pressure": 77.8588854447346, "gps_altitude": 2127.101, "gps_variance": 3.101}
+{"altitude": 2125, "pressure": 78.70913810379638, "gps_altitude": 2129.001, "gps_variance": 4.001}
+{"altitude": 2126, "pressure": 77.75939174569613, "gps_altitude": 2124.001, "gps_variance": 1.999}
+{"altitude": 2127, "pressure": 77.88964637035794, "gps_altitude": 2124.901, "gps_variance": 2.099}
+{"altitude": 2128, "pressure": 78.26990197770603, "gps_altitude": 2131.401, "gps_variance": 3.401}
+{"altitude": 2129, "pressure": 77.97015856766463, "gps_altitude": 2126.101, "gps_variance": 2.899}
+{"altitude": 2130, "pressure": 77.7804161401579, "gps_altitude": 2125.701, "gps_variance": 4.2989999999999995}
+{"altitude": 2131, "pressure": 77.77067469510999, "gps_altitude": 2135.701, "gps_variance": 4.7010000000000005}
+{"altitude": 2132, "pressure": 78.56093423244523, "gps_altitude": 2136.101, "gps_variance": 4.101}
+{"altitude": 2133, "pressure": 78.3111947520877, "gps_altitude": 2133.201, "gps_variance": 0.201}
