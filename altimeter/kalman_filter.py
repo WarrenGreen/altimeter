@@ -12,8 +12,8 @@ def gaussian_f(mu, sigma2, x):
     Returns:
         (float) probability
     """
-    coefficient = 1.0 / sqrt(2.0 * pi *sigma2)
-    exponential = exp(-0.5 * (x-mu) ** 2 / sigma2)
+    coefficient = 1.0 / sqrt(2.0 * pi * sigma2)
+    exponential = exp(-0.5 * (x - mu) ** 2 / sigma2)
     return coefficient * exponential
 
 
