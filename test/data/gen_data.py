@@ -74,7 +74,7 @@ def main(mode="linear"):
     else:
         altitude_gen = poly_gen()
     with open(output_filepath, "w") as f:
-        for altitude in altitude_gen:
+        for index, altitude in enumerate(altitude_gen):
             pressure = barometer.pressure(altitude)
             barometer_variance = (
                 random.randrange(-barometer_variance_max * 10000, barometer_variance_max * 10000, 1) / 10000.0
@@ -84,6 +84,13 @@ def main(mode="linear"):
 
             gps_variance = random.randrange(-gps_variance_max * 10, gps_variance_max * 10, 1) / 10.0 + 0.001
             gps_altitude = altitude + gps_variance
+
+            if index / 50000 < .70:
+                split_type = "train"
+            elif index / 50000 < 0.8:
+                split_type = "val"
+            else:
+                split_type = "test"
             # Have GPS updates coming less frequently than barometer measurements
             if random.random() < 0.5:
                 sample = {
@@ -92,12 +99,14 @@ def main(mode="linear"):
                     "gps_altitude": gps_altitude,
                     "gps_variance": abs(gps_variance),
                     "barometer_altitude": barometer_altitude,
+                    "split_type": split_type
                 }
             else:
                 sample = {
                     "altitude": altitude,
                     "pressure": barometer_pressure,
                     "barometer_altitude": barometer_altitude,
+                    "split_type": split_type
                 }
             f.write(json.dumps(sample) + "\n")
 
