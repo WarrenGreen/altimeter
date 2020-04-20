@@ -87,6 +87,7 @@ def train(batch_size=32, epochs=20, pin_memory=True, test_frequency=5, sequence_
     )
 
     loss_fn = MSELoss()
+    best_val_loss = float("inf")
     for epoch in range(1, epochs + 1):
         epoch_loss = 0.0
         for batch, labels in tqdm(train_dataloader):
@@ -104,10 +105,15 @@ def train(batch_size=32, epochs=20, pin_memory=True, test_frequency=5, sequence_
 
         val_loss = eval_dataset(model=model, dataset=val_dataset, device=device, batch_size=batch_size, loss_fn=loss_fn, pin_memory=pin_memory)
         print(f"Epoch {epoch}: validation loss: {val_loss}")
+        if val_loss < best_val_loss:
+            best_val_loss = val_loss
+            torch.save(model, f="best_model_woo!.pt")
 
         if epoch == 1 or epoch % test_frequency == 0:
             test_loss = eval_dataset(model=model, dataset=test_dataset, device=device, batch_size=batch_size, loss_fn=loss_fn, pin_memory=pin_memory)
             print(f"Epoch {epoch}: test loss: {test_loss}")
+
+    torch.save(model, f="final_model.pt")
 
 
 if __name__ == '__main__':
